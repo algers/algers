@@ -2546,7 +2546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esig/dss</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2672,7 +2672,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ory/hydra</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2711,7 +2711,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23/09/2021, 21:23 (timezone America/Chicago) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 23/09/2021, 22:11 (timezone America/Chicago) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
