@@ -17,10 +17,10 @@ jobs:
 
           # Options
           user: algers
-          template: markdown
+          template: classic
           filename: METRICS.md
-          markdown: TEMPLATE.md
-          markdown_cache: .cached
+#          markdown: TEMPLATE.md
+#          markdown_cache: .cached
           base: header, activity, community, repositories
           config_timezone: America/Chicago
           plugin_gists: yes
