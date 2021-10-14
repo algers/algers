@@ -1,3 +1,3 @@
-# alge.rs
+## alge.rs
 
-![metrics](github-metrics.svg])
+![metrics](github-metrics.svg)
