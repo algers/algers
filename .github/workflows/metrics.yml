@@ -19,7 +19,6 @@ jobs:
           user: algers
           template: markdown
           filename: README.md
-          markdown: TEMPLATE.md
           markdown_cache: .cached
           base: header, activity, community, repositories
           config_timezone: America/Chicago
