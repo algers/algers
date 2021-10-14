@@ -1,3 +1,4 @@
 # alge.rs
 
-<%- await include(`partials/activity.ejs`) %>
+
+![metrics](github-metrics.svg])

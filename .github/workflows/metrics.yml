@@ -18,7 +18,7 @@ jobs:
           # Options
           user: algers
           template: markdown
-          filename: README.md
+          filename: METRICS.md
           markdown: TEMPLATE.md
           markdown_cache: .cached
           base: header, activity, community, repositories
