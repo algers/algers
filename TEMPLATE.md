@@ -1,0 +1,2 @@
+
+<%- await include(`partials/activity.ejs`) %>
