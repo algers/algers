@@ -1,1106 +1,1102 @@
 
 ## NETWORK TV
 
-<details markdown="span">
+<details>
 
-- Channels
-  - ABC EAST
-  - ABC EAST Low
-  - CBS EAST
-  - CBS EAST Low
-  - FOX EAST
-  - FOX EAST Low
-  - NBC EAST
-  - NBC EAST Low
-  - ABC WEST
-  - CBS WEST
-  - CBS WEST Low
-  - FOX WEST
-  - FOX WEST Low
-  - NBC WEST
-  - NBC WEST Low
-  - A&E
-  - A&E Low
-  - A&E BACKUP
-  - ACCUWEATHER
-  - AFRICA CHANNEL
-  - AFRO
-  - AMC
-  - AMC Low
-  - AMC +
-  - AMERICAN HEROES CHANNEL
-  - AMERICAN HEROES CHANNEL Low
-  - ANIMAL PLANET
-  - ANIMAL PLANET Low
-  - ANIMAL PLANET WEST
-  - ANTENNA TV
-  - ASPIRE
-  - AWE
-  - AXS TV
-  - BABY FIRST
-  - BABY TV
-  - BBC AMERICA
-  - BBC AMERICA Low
-  - BBC WORLD NEWS Low
-  - BET
-  - BET Low
-  - BET WEST
-  - BET JAMS Low
-  - BET SOUL Low
-  - BET HER
-  - BET HER Low
-  - BLACK NEWS CHANNEL
-  - BLOOMBERG TV
-  - BOOMERANG
-  - BOUNCE TV
-  - BOUNCE TV Low
-  - BRAVO
-  - BRAVO Low
-  - BUZZR
-  - BYU TV
-  - C-SPAN
-  - C-SPAN 2
-  - C-SPAN 3
-  - CARS TV
-  - CARTOON NETWORK
-  - CARTOON NETWORK Low
-  - CBS JUSTICE
-  - CBS DRAMA
-  - CBS REALITY
-  - CHEDDAR BIG NEWS
-  - CHEDDAR NEWS
-  - CLEO TV
-  - CMT
-  - CMT Low
-  - CNBC
-  - CNBC WORLD
-  - CNN
-  - CNN Low
-  - COMEDY CENTRAL
-  - COMEDY CENTRAL Low
-  - COMEDY CENTRAL WEST
-  - COMEDY TV
-  - COMET
-  - COMET TV Low
-  - COOKING CHANNEL
-  - COURT TV
-  - COWBOY CHANNEL
-  - COZI TV
-  - COZI TV Low
-  - CW (KTLA 5)
-  - CW
-  - CW (PIX 11) | VIP
-  - DABL
-  - DECADES
-  - DESTINATION AMERICA
-  - DESTINATION AMERICA Low
-  - DISCOVERY CHANNEL
-  - DISCOVERY CHANNEL Low
-  - DISCOVERY CHANNEL WEST
-  - DISCOVERY FAMILY
-  - DISCOVERY FAMILY Low
-  - DISCOVERY LIFE
-  - DISCOVERY LIFE Low
-  - DISCOVERY SCIENCE
-  - DISCOVERY SCIENCE Low
-  - DISNEY CHANNEL
-  - DISNEY JR
-  - DISNEY XD
-  - DIY
-  - DIY Low
-  - DUST
-  - E!
-  - E! Low
-  - E! WEST
-  - FOOD NETWORK
-  - FOOD NETWORK Low
-  - FOOD NETWORK WEST
-  - FOX BUSINESS
-  - FOX BUSINESS Low
-  - FOX NEWS
-  - FOX NEWS Low
-  - FREE SPEECH TV
-  - FREEFORM
-  - FUSE
-  - FUSE Low
-  - FUSE MUSIC
-  - FX
-  - FX MOVIE
-  - FXX
-  - FYI
-  - FYI Low
-  - GAME SHOW NETWORK
-  - GAME SHOW NETWORK Low
-  - GET TV Low
-  - GINX eSPORTS
-  - GREAT AMERICAN COUNTRY
-  - GREAT AMERICAN COUNTRY Low
-  - GRIO
-  - GRIT
-  - GRIT Low
-  - HALLMARK CHANNEL
-  - HALLMARK CHANNEL Low
-  - HALLMARK DRAMA
-  - HALLMARK DRAMA Low
-  - HALLMARK MOVIES
-  - HALLMARK MOVIES Low
-  - HEROS & ICONS
-  - HGTV
-  - HGTV WEST
-  - HISTORY
-  - HISTORY Low
-  - HLN
-  - HLN Low
-  - HOCHANDA TV
-  - HOME SHOPPING NETWORK
-  - HOME SHOPPING NETWORK 2
-  - iBATTLE TV
-  - IFC
-  - IFC Low
-  - INSP TV
-  - INVESTIGATION DISCOVERY
-  - INVESTIGATION DISCOVERY Low
-  - ION TV
-  - JUSTICE CENTRAL
-  - JUSTICE NETWORK
-  - LAFF TV
-  - LAW & CRIME
-  - LIFETIME
-  - LIFETIME Low
-  - LIFETIME MOVIE NETWORK
-  - LIFETIME MOVIE NETWORK Low
-  - LOGO
-  - LOGO Low
-  - KIDS STREET
-  - ME TV EAST
-  - MILITARY HISTORY
-  - MOVIES!
-  - MSNBC
-  - MTV
-  - MTV Low
-  - MTV WEST
-  - MTV 2
-  - MTV 2 Low
-  - MTV CLASSIC
-  - MTV LIVE
-  - MTV U
-  - MY 50 CHICAGO
-  - MY 64 CINCINNATI
-  - MYSTERY
-  - NAT GEO
-  - NAT GEO WILD
-  - NBC UNIVERSO Low
-  - NECN
-  - NEWSMAX 2
-  - NEWSMAX 3
-  - NICKELODEON
-  - NICK JR
-  - NICK JR Low
-  - NICK JR WEST
-  - NICKMUSIC Low
-  - NICKTOONS
-  - ONE AMERICA NETWORK
-  - OVATION
-  - OWN
-  - OXYGEN
-  - OXYGEN Low
-  - PARAMOUNT NETWORK
-  - PARAMOUNT NETWORK Low
-  - PBS
-  - PBS KIDS
-  - PEOPLE TV
-  - PixL
-  - POP TV
-  - POP TV Low
-  - QVC
-  - RECIPE TV
-  - REELZ
-  - REVOLT
-  - RFD TV
-  - RIDE TV
-  - SHOUT FACTORY TV
-  - SMITHSONIAN CHANNEL
-  - SMITHSONIAN CHANNEL WEST
-  - SONY MOVIE CHANNEL
-  - SPROUT Low
-  - START TV
-  - SUNDANCE TV
-  - SUNDANCE TV Low
-  - SYFY
-  - SYFY WEST
-  - SYFY Low
-  - TASTEMADE
-  - TBS
-  - TBS Low
-  - TCM
-  - TCM Low
-  - TEEN NICK
-  - THE COUNTRY NETWORK
-  - THIS TV
-  - TLC
-  - TLC Low
-  - TLC WEST
-  - TNT
-  - TNT Low
-  - TRAVEL CHANNEL
-  - TRAVEL CHANNEL Low
-  - TRAVEL CHANNEL WEST
-  - TRU TV
-  - TRU TV Low
-  - TV LAND
-  - TV LAND Low
-  - TV LAND WEST
-  - TV ONE
-  - UNIVERSAL KIDS
-  - UNIVERSITY OF CALIFORNIA TV
-  - UP TV
-  - USA NETWORK
-  - USA NETWORK Low
-  - USA NETWORK WEST
-  - VH1
-  - VH1 Low
-  - VH1 WEST
-  - WE TV
-  - VICELAND
-  - VICELAND Low
-  - WEATHER CHANNEL
-  - WEATHER CHANNEL Low
-  - WGN CHICAGO
-  - WGN 9 (CHI)
-  - WGN AMERICA
-  - Z LIVING
+- ABC EAST
+- ABC EAST Low
+- CBS EAST
+- CBS EAST Low
+- FOX EAST
+- FOX EAST Low
+- NBC EAST
+- NBC EAST Low
+- ABC WEST
+- CBS WEST
+- CBS WEST Low
+- FOX WEST
+- FOX WEST Low
+- NBC WEST
+- NBC WEST Low
+- A&E
+- A&E Low
+- A&E BACKUP
+- ACCUWEATHER
+- AFRICA CHANNEL
+- AFRO
+- AMC
+- AMC Low
+- AMC +
+- AMERICAN HEROES CHANNEL
+- AMERICAN HEROES CHANNEL Low
+- ANIMAL PLANET
+- ANIMAL PLANET Low
+- ANIMAL PLANET WEST
+- ANTENNA TV
+- ASPIRE
+- AWE
+- AXS TV
+- BABY FIRST
+- BABY TV
+- BBC AMERICA
+- BBC AMERICA Low
+- BBC WORLD NEWS Low
+- BET
+- BET Low
+- BET WEST
+- BET JAMS Low
+- BET SOUL Low
+- BET HER
+- BET HER Low
+- BLACK NEWS CHANNEL
+- BLOOMBERG TV
+- BOOMERANG
+- BOUNCE TV
+- BOUNCE TV Low
+- BRAVO
+- BRAVO Low
+- BUZZR
+- BYU TV
+- C-SPAN
+- C-SPAN 2
+- C-SPAN 3
+- CARS TV
+- CARTOON NETWORK
+- CARTOON NETWORK Low
+- CBS JUSTICE
+- CBS DRAMA
+- CBS REALITY
+- CHEDDAR BIG NEWS
+- CHEDDAR NEWS
+- CLEO TV
+- CMT
+- CMT Low
+- CNBC
+- CNBC WORLD
+- CNN
+- CNN Low
+- COMEDY CENTRAL
+- COMEDY CENTRAL Low
+- COMEDY CENTRAL WEST
+- COMEDY TV
+- COMET
+- COMET TV Low
+- COOKING CHANNEL
+- COURT TV
+- COWBOY CHANNEL
+- COZI TV
+- COZI TV Low
+- CW (KTLA 5)
+- CW
+- CW (PIX 11) | VIP
+- DABL
+- DECADES
+- DESTINATION AMERICA
+- DESTINATION AMERICA Low
+- DISCOVERY CHANNEL
+- DISCOVERY CHANNEL Low
+- DISCOVERY CHANNEL WEST
+- DISCOVERY FAMILY
+- DISCOVERY FAMILY Low
+- DISCOVERY LIFE
+- DISCOVERY LIFE Low
+- DISCOVERY SCIENCE
+- DISCOVERY SCIENCE Low
+- DISNEY CHANNEL
+- DISNEY JR
+- DISNEY XD
+- DIY
+- DIY Low
+- DUST
+- E!
+- E! Low
+- E! WEST
+- FOOD NETWORK
+- FOOD NETWORK Low
+- FOOD NETWORK WEST
+- FOX BUSINESS
+- FOX BUSINESS Low
+- FOX NEWS
+- FOX NEWS Low
+- FREE SPEECH TV
+- FREEFORM
+- FUSE
+- FUSE Low
+- FUSE MUSIC
+- FX
+- FX MOVIE
+- FXX
+- FYI
+- FYI Low
+- GAME SHOW NETWORK
+- GAME SHOW NETWORK Low
+- GET TV Low
+- GINX eSPORTS
+- GREAT AMERICAN COUNTRY
+- GREAT AMERICAN COUNTRY Low
+- GRIO
+- GRIT
+- GRIT Low
+- HALLMARK CHANNEL
+- HALLMARK CHANNEL Low
+- HALLMARK DRAMA
+- HALLMARK DRAMA Low
+- HALLMARK MOVIES
+- HALLMARK MOVIES Low
+- HEROS & ICONS
+- HGTV
+- HGTV WEST
+- HISTORY
+- HISTORY Low
+- HLN
+- HLN Low
+- HOCHANDA TV
+- HOME SHOPPING NETWORK
+- HOME SHOPPING NETWORK 2
+- iBATTLE TV
+- IFC
+- IFC Low
+- INSP TV
+- INVESTIGATION DISCOVERY
+- INVESTIGATION DISCOVERY Low
+- ION TV
+- JUSTICE CENTRAL
+- JUSTICE NETWORK
+- LAFF TV
+- LAW & CRIME
+- LIFETIME
+- LIFETIME Low
+- LIFETIME MOVIE NETWORK
+- LIFETIME MOVIE NETWORK Low
+- LOGO
+- LOGO Low
+- KIDS STREET
+- ME TV EAST
+- MILITARY HISTORY
+- MOVIES!
+- MSNBC
+- MTV
+- MTV Low
+- MTV WEST
+- MTV 2
+- MTV 2 Low
+- MTV CLASSIC
+- MTV LIVE
+- MTV U
+- MY 50 CHICAGO
+- MY 64 CINCINNATI
+- MYSTERY
+- NAT GEO
+- NAT GEO WILD
+- NBC UNIVERSO Low
+- NECN
+- NEWSMAX 2
+- NEWSMAX 3
+- NICKELODEON
+- NICK JR
+- NICK JR Low
+- NICK JR WEST
+- NICKMUSIC Low
+- NICKTOONS
+- ONE AMERICA NETWORK
+- OVATION
+- OWN
+- OXYGEN
+- OXYGEN Low
+- PARAMOUNT NETWORK
+- PARAMOUNT NETWORK Low
+- PBS
+- PBS KIDS
+- PEOPLE TV
+- PixL
+- POP TV
+- POP TV Low
+- QVC
+- RECIPE TV
+- REELZ
+- REVOLT
+- RFD TV
+- RIDE TV
+- SHOUT FACTORY TV
+- SMITHSONIAN CHANNEL
+- SMITHSONIAN CHANNEL WEST
+- SONY MOVIE CHANNEL
+- SPROUT Low
+- START TV
+- SUNDANCE TV
+- SUNDANCE TV Low
+- SYFY
+- SYFY WEST
+- SYFY Low
+- TASTEMADE
+- TBS
+- TBS Low
+- TCM
+- TCM Low
+- TEEN NICK
+- THE COUNTRY NETWORK
+- THIS TV
+- TLC
+- TLC Low
+- TLC WEST
+- TNT
+- TNT Low
+- TRAVEL CHANNEL
+- TRAVEL CHANNEL Low
+- TRAVEL CHANNEL WEST
+- TRU TV
+- TRU TV Low
+- TV LAND
+- TV LAND Low
+- TV LAND WEST
+- TV ONE
+- UNIVERSAL KIDS
+- UNIVERSITY OF CALIFORNIA TV
+- UP TV
+- USA NETWORK
+- USA NETWORK Low
+- USA NETWORK WEST
+- VH1
+- VH1 Low
+- VH1 WEST
+- WE TV
+- VICELAND
+- VICELAND Low
+- WEATHER CHANNEL
+- WEATHER CHANNEL Low
+- WGN CHICAGO
+- WGN 9 (CHI)
+- WGN AMERICA
+- Z LIVING
 
 </details>
 
 ## SPORTS NETWORKS
 
-<details markdown="span">
+<details>
 
-- Channels
-  - ESPN (East Server)
-  - ESPN (West Server)
-  - ESPN Backup
-  - ESPN2
-  - ESPN NEWS
-  - ESPN U
-  - ESPN CLASSIC
-  - FOX SPORTS 1
-  - FOX SPORTS 1 Low
-  - FOX SPORTS 2
-  - FOX SPORTS 2 Low
-  - NFL NETWORK
-  - NFL NETWORK Low
-  - NBA TV
-  - NBA TV Low
-  - MLB NETWORK
-  - NHL NETWORK
-  - GOLF CHANNEL
-  - GOLF CHANNEL Low
-  - TENNIS CHANNEL
-  - TENNIS CHANNEL Low
-  - TVG
-  - TVG Low
-  - TVG 2
-  - FIGHT CHANNEL
-  - FIGHT NETWORK
-  - FITE 24/7
-  - UFC TV
-  - UFC FIGHT PASS 1
-  - UFC FIGHT PASS 2
-  - UFC FIGHT PASS 3
-  - UFC FIGHT PASS 4
-  - UFC FIGHT PASS 5
-  - IMPACT WRESTLING
-  - WWE
-  - ALTITUDE SPORTS
-  - AT&T SPORTSNET PITTSBURGH
-  - AT&T SPORTSNET ROCKY MOUNTAIN
-  - AT&T SPORTSNET SOUTHWEST
-  - MARQUEE SPORTS NETWORK
-  - MASN
-  - MASN 2
-  - MSG
-  - MSG PLUS
-  - MSG 2
-  - MSG 2 Plus
-  - NESN
-  - NESN PLUS
-  - ROOT SPORTS NORTHWEST
-  - SPECTRUM SPORTSNET
-  - SPORTSNET L.A.
-  - SNY
-  - YES NETWORK
-  - NBCSN
-  - NBCSN Low
-  - NBCSN BAY AREA
-  - NBCSN BOSTON
-  - NBCSN CALIFORNIA
-  - NBCSN CHICAGO
-  - NBCSN CHICAGO PLUS
-  - NBCSN NORTH WEST
-  - NBCSN PHILLY
-  - NBCSN PHILLY PLUS
-  - NBCSN WASHINGTON
-  - ACC NETWORK
-  - BIG TEN NETWORK
-  - BIG TEN NETWORK Low
-  - BIG TEN NETWORK 2
-  - BIG TEN NETWORK 3
-  - BIG TEN NETWORK 4
-  - LONGHORN NETWORK
-  - SEC NETWORK
-  - Pac-12 NETWORK
-  - PAC-12 ARIZONA
-  - PAC-12 BAY AREA
-  - PAC-12 LOS ANGELES
-  - PAC-12 MOUNTAIN
-  - PAC-12 OREGON
-  - PAC-12 WASHINGTON
-  - CBS SPORTS HQ
-  - CBS SPORTS NETWORK
-  - CBS SPORTS NETWORK Low
-  - ELEVEN SPORTS
-  - FANTASY SPORTS NETWORK
-  - VSIN
-  - FREESPORTS
-  - OLYMPIC CHANNEL
-  - PREMIER SPORTS 1
-  - PREMIER SPORTS 2
-  - FOX SOCCER PLUS
-  - FOX SPORTS RACING
-  - BALLY SPORTS ARIZONA
-  - BALLY SPORTS ARIZONA PLUS
-  - BALLY SPORTS CAROLINAS
-  - BALLY SPORTS CINCINNATI
-  - BALLY SPORTS DETROIT
-  - BALLY SPORTS DETROIT PLUS
-  - BALLY SPORTS FLORIDA
-  - BALLY SPORTS FLORIDA (North)
-  - BALLY SPORTS MIDWEST
-  - BALLY SPORTS NEW ORLEANS
-  - BALLY SPORTS NORTH
-  - BALLY SPORTS OHIO
-  - BALLY SPORTS OKLAHOMA
-  - BALLY SPORTS SOCAL
-  - BALLY SPORTS SAN DIEGO
-  - BALLY SPORTS SAN DIEGO PLUS
-  - BALLY SPORTS GREAT LAKES
-  - BALLY SPORTS SOUTH
-  - BALLY SPORTS SOUTH PLUS
-  - BALLY SPORTS SOUTHEAST
-  - BALLY SPORTS SOUTHEAST (North Carolina)
-  - BALLY SPORTS SOUTHEAST (Tennessee)
-  - BALLY SPORTS SOUTHWEST
-  - BALLY SPORTS SOUTHWEST
-  - BALLY SPORTS SUN
-  - BALLY SPORTS SUN (North Florida)
-  - BALLY SPORTS TENNESSEE
-  - BALLY SPORTS WEST
-  - BALLY SPORTS WISCONSIN
-  - FOX DEPORTES
-  - BOXNATION
-  - BT SPORTS 1
-  - BT SPORTS 2
-  - BT SPORTS 3
-  - BT SPORTS EPSN
-  - BT SPORTS EXTRA 1 | VIP
-  - BT SPORTS EXTRA 2 | VIP
-  - BT SPORTS EXTRA 3 | VIP
-  - BT SPORTS EXTRA 4 | VIP
-  - BT SPORTS EXTRA 5 | VIP
-  - BT SPORTS EXTRA 6 | VIP
-  - BT SPORTS EXTRA 7 | VIP
-  - SKY SPORTS ACTION
-  - SKY SPORTS ARENA
-  - SKY SPORTS CRICKET
-  - SKY SPORTS F1
-  - SKY SPORTS FOOTBALL
-  - SKY SPORTS GOLF
-  - SKY SPORTS MAIN EVENT
-  - SKY SPORTS MIX
-  - SKY SPORTS NEWS
-  - SKY SPORTS PREMIER LEAGUE
-  - SKY SPORTS RACING
-  - EUROSPORT 1
-  - EUROSPORT 2
-  - TSN 1
-  - TSN 2
-  - TSN 3
-  - TSN 4
-  - TSN 5
-  - SPORTSNET 360
-  - SPORTSNET ONE
-  - SPORTSNET ONTARIO
-  - SPORTSNET PACIFIC
-  - SPORTSNET WEST
-  - SPORTSNET WORLD
-  - BEIN SPORTS USA
-  - BEIN SPORTS ESP (US)
-  - BEIN SPORTS LA LIGA
-  - BEIN CONNECT 4
-  - BEIN CONNECT 5
-  - BEIN CONNECT 6
-  - BEIN CONNECT 7
-  - BEIN CONNECT 8
-  - BEIN SPORTS 1 (Australia)
-  - BEIN SPORTS 2 (Australia)
-  - BEIN SPORTS 3 (Australia)
-  - ESPN (Australia)
-  - ESPN 2 (Australia)
-  - FOX CRICKET (Australia)
-  - FOX SPORTS 502 (Australia)
-  - FOX SPORTS 503 (Australia)
-  - FOX SPORTS 504 (Australia)
-  - FOX SPORTS 505 (Australia)
-  - FOX SPORTS 506 (Australia)
-  - FOX SPORTS 507 (Australia)
-  - RACING TV (Australia)
-  - Bee n Sport 1
-  - Bee n Sport 2
-  - Bee N Sport 3
-  - Bee N Sport 4
-  - Bee n Sport 5
-  - Bee n Sport 6
-  - Bee n Sport 7
-  - Bee N Sport 8
-  - Bee N Sport 9
-  - Bee N Sport 10
-  - Bee N Sport 11
-  - Bee n Sport 12
-  - Bee N Sport 13
-  - OSN CRICKET
-  - WILLOW CRICKET
-  - WILLOWXTRA CRICKET
-  - WILLOW 1
-  - WILLOW 2
-  - WILLOW 3
-  - WILLOW 4
-  - WILLOW 5
-  - STADIUM
-  - STADIUM 1
-  - STADIUM 2
-  - STADIUM 3
-  - MAVTV
-  - DISCOVERY TURBO
-  - PURSUIT CHANNEL
-  - RACIN DIRT
-  - SPORTSMAN CHANNEL
-  - SPORTSMAN CHANNEL Low
-  - HUNT CHANNEL TV
-  - OUTDOOR CHANNEL
-  - WORLD FISHING NETWORK
-  - OUTSIDE TV
-  - MOTORTREND
-  - MOTORTREND Low
-  - RED BULL TV
-  - Tennis Channel Academy
-  - Tennis Channel Plus 1
-  - Tennis Channel Plus 2
-  - Tennis Channel Plus 3
-  - Tennis Channel Plus 4
-  - Tennis Channel Plus 5
-  - Tennis Channel Plus 6
-  - Tennis Channel Plus 7
-  - Tennis Channel Plus 8
-  - Tennis Channel Plus 9
-  - Tennis Channel Plus 10
-  - Tennis Channel Plus 11
-  - Tennis Channel Plus 12
-  - Tennis Channel Plus 13
-  - Tennis Channel Plus 14
+- ESPN (East Server)
+- ESPN (West Server)
+- ESPN Backup
+- ESPN2
+- ESPN NEWS
+- ESPN U
+- ESPN CLASSIC
+- FOX SPORTS 1
+- FOX SPORTS 1 Low
+- FOX SPORTS 2
+- FOX SPORTS 2 Low
+- NFL NETWORK
+- NFL NETWORK Low
+- NBA TV
+- NBA TV Low
+- MLB NETWORK
+- NHL NETWORK
+- GOLF CHANNEL
+- GOLF CHANNEL Low
+- TENNIS CHANNEL
+- TENNIS CHANNEL Low
+- TVG
+- TVG Low
+- TVG 2
+- FIGHT CHANNEL
+- FIGHT NETWORK
+- FITE 24/7
+- UFC TV
+- UFC FIGHT PASS 1
+- UFC FIGHT PASS 2
+- UFC FIGHT PASS 3
+- UFC FIGHT PASS 4
+- UFC FIGHT PASS 5
+- IMPACT WRESTLING
+- WWE
+- ALTITUDE SPORTS
+- AT&T SPORTSNET PITTSBURGH
+- AT&T SPORTSNET ROCKY MOUNTAIN
+- AT&T SPORTSNET SOUTHWEST
+- MARQUEE SPORTS NETWORK
+- MASN
+- MASN 2
+- MSG
+- MSG PLUS
+- MSG 2
+- MSG 2 Plus
+- NESN
+- NESN PLUS
+- ROOT SPORTS NORTHWEST
+- SPECTRUM SPORTSNET
+- SPORTSNET L.A.
+- SNY
+- YES NETWORK
+- NBCSN
+- NBCSN Low
+- NBCSN BAY AREA
+- NBCSN BOSTON
+- NBCSN CALIFORNIA
+- NBCSN CHICAGO
+- NBCSN CHICAGO PLUS
+- NBCSN NORTH WEST
+- NBCSN PHILLY
+- NBCSN PHILLY PLUS
+- NBCSN WASHINGTON
+- ACC NETWORK
+- BIG TEN NETWORK
+- BIG TEN NETWORK Low
+- BIG TEN NETWORK 2
+- BIG TEN NETWORK 3
+- BIG TEN NETWORK 4
+- LONGHORN NETWORK
+- SEC NETWORK
+- Pac-12 NETWORK
+- PAC-12 ARIZONA
+- PAC-12 BAY AREA
+- PAC-12 LOS ANGELES
+- PAC-12 MOUNTAIN
+- PAC-12 OREGON
+- PAC-12 WASHINGTON
+- CBS SPORTS HQ
+- CBS SPORTS NETWORK
+- CBS SPORTS NETWORK Low
+- ELEVEN SPORTS
+- FANTASY SPORTS NETWORK
+- VSIN
+- FREESPORTS
+- OLYMPIC CHANNEL
+- PREMIER SPORTS 1
+- PREMIER SPORTS 2
+- FOX SOCCER PLUS
+- FOX SPORTS RACING
+- BALLY SPORTS ARIZONA
+- BALLY SPORTS ARIZONA PLUS
+- BALLY SPORTS CAROLINAS
+- BALLY SPORTS CINCINNATI
+- BALLY SPORTS DETROIT
+- BALLY SPORTS DETROIT PLUS
+- BALLY SPORTS FLORIDA
+- BALLY SPORTS FLORIDA (North)
+- BALLY SPORTS MIDWEST
+- BALLY SPORTS NEW ORLEANS
+- BALLY SPORTS NORTH
+- BALLY SPORTS OHIO
+- BALLY SPORTS OKLAHOMA
+- BALLY SPORTS SOCAL
+- BALLY SPORTS SAN DIEGO
+- BALLY SPORTS SAN DIEGO PLUS
+- BALLY SPORTS GREAT LAKES
+- BALLY SPORTS SOUTH
+- BALLY SPORTS SOUTH PLUS
+- BALLY SPORTS SOUTHEAST
+- BALLY SPORTS SOUTHEAST (North Carolina)
+- BALLY SPORTS SOUTHEAST (Tennessee)
+- BALLY SPORTS SOUTHWEST
+- BALLY SPORTS SOUTHWEST
+- BALLY SPORTS SUN
+- BALLY SPORTS SUN (North Florida)
+- BALLY SPORTS TENNESSEE
+- BALLY SPORTS WEST
+- BALLY SPORTS WISCONSIN
+- FOX DEPORTES
+- BOXNATION
+- BT SPORTS 1
+- BT SPORTS 2
+- BT SPORTS 3
+- BT SPORTS EPSN
+- BT SPORTS EXTRA 1 | VIP
+- BT SPORTS EXTRA 2 | VIP
+- BT SPORTS EXTRA 3 | VIP
+- BT SPORTS EXTRA 4 | VIP
+- BT SPORTS EXTRA 5 | VIP
+- BT SPORTS EXTRA 6 | VIP
+- BT SPORTS EXTRA 7 | VIP
+- SKY SPORTS ACTION
+- SKY SPORTS ARENA
+- SKY SPORTS CRICKET
+- SKY SPORTS F1
+- SKY SPORTS FOOTBALL
+- SKY SPORTS GOLF
+- SKY SPORTS MAIN EVENT
+- SKY SPORTS MIX
+- SKY SPORTS NEWS
+- SKY SPORTS PREMIER LEAGUE
+- SKY SPORTS RACING
+- EUROSPORT 1
+- EUROSPORT 2
+- TSN 1
+- TSN 2
+- TSN 3
+- TSN 4
+- TSN 5
+- SPORTSNET 360
+- SPORTSNET ONE
+- SPORTSNET ONTARIO
+- SPORTSNET PACIFIC
+- SPORTSNET WEST
+- SPORTSNET WORLD
+- BEIN SPORTS USA
+- BEIN SPORTS ESP (US)
+- BEIN SPORTS LA LIGA
+- BEIN CONNECT 4
+- BEIN CONNECT 5
+- BEIN CONNECT 6
+- BEIN CONNECT 7
+- BEIN CONNECT 8
+- BEIN SPORTS 1 (Australia)
+- BEIN SPORTS 2 (Australia)
+- BEIN SPORTS 3 (Australia)
+- ESPN (Australia)
+- ESPN 2 (Australia)
+- FOX CRICKET (Australia)
+- FOX SPORTS 502 (Australia)
+- FOX SPORTS 503 (Australia)
+- FOX SPORTS 504 (Australia)
+- FOX SPORTS 505 (Australia)
+- FOX SPORTS 506 (Australia)
+- FOX SPORTS 507 (Australia)
+- RACING TV (Australia)
+- Bee n Sport 1
+- Bee n Sport 2
+- Bee N Sport 3
+- Bee N Sport 4
+- Bee n Sport 5
+- Bee n Sport 6
+- Bee n Sport 7
+- Bee N Sport 8
+- Bee N Sport 9
+- Bee N Sport 10
+- Bee N Sport 11
+- Bee n Sport 12
+- Bee N Sport 13
+- OSN CRICKET
+- WILLOW CRICKET
+- WILLOWXTRA CRICKET
+- WILLOW 1
+- WILLOW 2
+- WILLOW 3
+- WILLOW 4
+- WILLOW 5
+- STADIUM
+- STADIUM 1
+- STADIUM 2
+- STADIUM 3
+- MAVTV
+- DISCOVERY TURBO
+- PURSUIT CHANNEL
+- RACIN DIRT
+- SPORTSMAN CHANNEL
+- SPORTSMAN CHANNEL Low
+- HUNT CHANNEL TV
+- OUTDOOR CHANNEL
+- WORLD FISHING NETWORK
+- OUTSIDE TV
+- MOTORTREND
+- MOTORTREND Low
+- RED BULL TV
+- Tennis Channel Academy
+- Tennis Channel Plus 1
+- Tennis Channel Plus 2
+- Tennis Channel Plus 3
+- Tennis Channel Plus 4
+- Tennis Channel Plus 5
+- Tennis Channel Plus 6
+- Tennis Channel Plus 7
+- Tennis Channel Plus 8
+- Tennis Channel Plus 9
+- Tennis Channel Plus 10
+- Tennis Channel Plus 11
+- Tennis Channel Plus 12
+- Tennis Channel Plus 13
+- Tennis Channel Plus 14
 
 </details>
 
 ## PREMIUM MOVIE CHANNELS
 
-<details markdown="span">
+<details>
 
-- Channels
-  - HBO
-  - HBO WEST
-  - HBO LATINO WEST
-  - HBO 2
-  - HBO 2 WEST
-  - HBO COMEDY
-  - HBO COMEDY WEST
-  - HBO FAMILY
-  - HBO FAMILY WEST
-  - HBO SIGNATURE
-  - HBO SIGNATURE Low
-  - HBO SIGNATURE WEST
-  - HBO ZONE
-  - HBO ZONE WEST
-  - CINEMAX
-  - CINEMAX WEST
-  - CINEMAX LATINO
-  - CINEMAX 5STAR MAX
-  - CINEMAX 5STAR MAX Low
-  - CINEMAX ACTIONMAX
-  - CINEMAX ACTIONMAX WEST
-  - CINEMAX MOREMAX
-  - CINEMAX MOREMAX WEST
-  - CINEMAX MOVIEMAX
-  - CINEMAX OUTERMAX
-  - CINEMAX THRILLERMAX
-  - CINEMAX THRILLERMAX WEST
-  - SHOWTIME
-  - SHOWTIME WEST
-  - SHOWTIME 2
-  - SHOWTIME 2 WEST
-  - SHOxBET
-  - SHOxBET Low
-  - SHOxBET WEST
-  - SHOWTIME EXTREME
-  - SHOWTIME EXTREME WEST
-  - SHOWTIME FAMILY ZONE
-  - SHOWTIME FAMILY ZONE WEST
-  - SHOWTIME NEXT
-  - SHOWTIME NEXT Low
-  - SHOWTIME NEXT WEST
-  - SHOWTIME SHOWCASE
-  - SHOWTIME SHOWCASE Low
-  - SHOWTIME SHOWCASE WEST
-  - SHOWTIME WOMEN
-  - SHOWTIME WOMEN WEST
-  - STARZ
-  - STARZ WEST
-  - STARZ CINEMA
-  - STARZ CINEMA WEST
-  - STARZ COMEDY
-  - STARZ COMEDY WEST
-  - STARZ EDGE
-  - STARZ EDGE WEST
-  - STARZ ENCORE
-  - STARZ ENCORE WEST
-  - STARZ ENCORE ESPANOL
-  - STARZ ENCORE ACTION
-  - STARZ ENCORE BLACK
-  - STARZ ENCORE CLASSIC
-  - STARZ ENCORE FAMILY
-  - STARZ ENCORE SUSPENSE
-  - STARZ ENCORE WESTERNS
-  - STARZ IN BLACK
-  - STARZ IN BLACK Low
-  - STARZ IN BLACK WEST
-  - STARZ KIDS & FAMILY
-  - FLIX
-  - HDNET MOVIES
-  - MGM
-  - MOVIEPLEX
-  - RETROPLEX
-  - SCREENPIX
-  - SCREENPIX ACTION
-  - SCREENPIX VOICES
-  - SCREENPIX WESTERNS
-  - THE MOVIE CHANNEL
-  - THE MOVIE CHANNEL XTRA
-  - EPIX
-  - EPIX WEST
-  - EPIX 2
-  - EPIX DRIVE-IN
-  - EPIX HITS
-  - SKY CINEMA ACTION | VIP
-  - SKY CINEMA ANIMATION | VIP
-  - SKY CINEMA COMEDY | VIP
-  - SKY CINEMA DRAMA | VIP
-  - SKY CINEMA FAMILY | VIP
-  - SKY CINEMA GREATS | VIP
-  - SKY CINEMA HITS | VIP
-  - SKY CINEMA PREMIER | VIP
-  - SKY CINEMA SCI-FI HORROR | VIP
-  - SKY CINEMA SELECT | VIP
-  - SKY CINEMA THRILLER | VIP
+- HBO
+- HBO WEST
+- HBO LATINO WEST
+- HBO 2
+- HBO 2 WEST
+- HBO COMEDY
+- HBO COMEDY WEST
+- HBO FAMILY
+- HBO FAMILY WEST
+- HBO SIGNATURE
+- HBO SIGNATURE Low
+- HBO SIGNATURE WEST
+- HBO ZONE
+- HBO ZONE WEST
+- CINEMAX
+- CINEMAX WEST
+- CINEMAX LATINO
+- CINEMAX 5STAR MAX
+- CINEMAX 5STAR MAX Low
+- CINEMAX ACTIONMAX
+- CINEMAX ACTIONMAX WEST
+- CINEMAX MOREMAX
+- CINEMAX MOREMAX WEST
+- CINEMAX MOVIEMAX
+- CINEMAX OUTERMAX
+- CINEMAX THRILLERMAX
+- CINEMAX THRILLERMAX WEST
+- SHOWTIME
+- SHOWTIME WEST
+- SHOWTIME 2
+- SHOWTIME 2 WEST
+- SHOxBET
+- SHOxBET Low
+- SHOxBET WEST
+- SHOWTIME EXTREME
+- SHOWTIME EXTREME WEST
+- SHOWTIME FAMILY ZONE
+- SHOWTIME FAMILY ZONE WEST
+- SHOWTIME NEXT
+- SHOWTIME NEXT Low
+- SHOWTIME NEXT WEST
+- SHOWTIME SHOWCASE
+- SHOWTIME SHOWCASE Low
+- SHOWTIME SHOWCASE WEST
+- SHOWTIME WOMEN
+- SHOWTIME WOMEN WEST
+- STARZ
+- STARZ WEST
+- STARZ CINEMA
+- STARZ CINEMA WEST
+- STARZ COMEDY
+- STARZ COMEDY WEST
+- STARZ EDGE
+- STARZ EDGE WEST
+- STARZ ENCORE
+- STARZ ENCORE WEST
+- STARZ ENCORE ESPANOL
+- STARZ ENCORE ACTION
+- STARZ ENCORE BLACK
+- STARZ ENCORE CLASSIC
+- STARZ ENCORE FAMILY
+- STARZ ENCORE SUSPENSE
+- STARZ ENCORE WESTERNS
+- STARZ IN BLACK
+- STARZ IN BLACK Low
+- STARZ IN BLACK WEST
+- STARZ KIDS & FAMILY
+- FLIX
+- HDNET MOVIES
+- MGM
+- MOVIEPLEX
+- RETROPLEX
+- SCREENPIX
+- SCREENPIX ACTION
+- SCREENPIX VOICES
+- SCREENPIX WESTERNS
+- THE MOVIE CHANNEL
+- THE MOVIE CHANNEL XTRA
+- EPIX
+- EPIX WEST
+- EPIX 2
+- EPIX DRIVE-IN
+- EPIX HITS
+- SKY CINEMA ACTION | VIP
+- SKY CINEMA ANIMATION | VIP
+- SKY CINEMA COMEDY | VIP
+- SKY CINEMA DRAMA | VIP
+- SKY CINEMA FAMILY | VIP
+- SKY CINEMA GREATS | VIP
+- SKY CINEMA HITS | VIP
+- SKY CINEMA PREMIER | VIP
+- SKY CINEMA SCI-FI HORROR | VIP
+- SKY CINEMA SELECT | VIP
+- SKY CINEMA THRILLER | VIP
 
 </details>
 
 ## REGIONAL LOCALS
 
-<details markdown="span">
+<details>
 
-- Channels
-  - ABC (KAAL) Austin Minnesota
-  - ABC (KABC) Los Angeles CA
-  - ABC (KAEF) Arcata CA
-  - ABC (KAMC) Lubbock TX
-  - ABC (KAPP) Yakima WA
-  - ABC (KATU) Portland OR
-  - ABC (KATV) Little Rock AR
-  - ABC (KAVU) Victoria TX
-  - ABC (KBMT) Beaumont TX
-  - ABC (KCRG) Cedar Rapids IA
-  - ABC (KDNL) St Louis MO
-  - ABC (KDRV) Medford OR
-  - ABC (KERO) Bakersfield CA
-  - ABC (KESQ) Indio CA
-  - ABC (KEYT) Santa Barbara CA
-  - ABC (KEZI) Eugene OR
-  - ABC (KFBB) Great Falls MT
-  - ABC (KGO) San Francisco CA
-  - ABC (KGTV) San Diego CA
-  - ABC (KGUN) Tucson AZ
-  - ABC (KIFI) Idaho Falls ID
-  - ABC (KIII) Corpus Christi TX
-  - ABC (KIVI) Nampa ID
-  - ABC (KJCT) Grand Junction CO
-  - ABC (KKTQ) Cheyenne Wyoming
-  - ABC (KLTV) Tyler TX
-  - ABC (KMGH) Denver CO
-  - ABC (KMIZ) Columbia MO
-  - ABC (KNXV) Phoenix AZ
-  - ABC (KOAT) Albuquerque NM
-  - ABC (KOCO) Oklahoma City OK
-  - ABC (KODE) Joplin MO
-  - ABC (KOLO) Reno NV
-  - ABC (KOMO) Seattle WA
-  - ABC (KOTA) Rapid City SD
-  - ABC (KRCR) Redding CA
-  - ABC (KRDO) CO Springs CO
-  - ABC (KRGV) Weslaco TX
-  - ABC (KSAT) San Antonio TX
-  - ABC (KSFY) Sioux Falls SD
-  - ABC (KSPR) Springfield MO
-  - ABC (KSTP) Saint Paul MN
-  - ABC (KSWO) Lawton OK
-  - ABC (KTMF) Missoula MT
-  - ABC (KTNV) Las Vegas NV
-  - ABC (KTRK) Houston TX
-  - ABC (KTUL) Tulsa OK
-  - ABC (KTVO) Kirksville MO
-  - ABC (KTXS) Sweetwater TX
-  - ABC (KVIA) El Paso TX
-  - ABC (KVII) Amarillo TX
-  - ABC (KWYB) Butte MT
-  - ABC (KXLY) Spokane WA
-  - ABC (KXTV) Sacramento CA
-  - ABC (KXXV) Waco TX
-  - ABC (WAAY) Huntsville AL
-  - ABC (WABC) New York NY
-  - ABC (WAOW) Wausau WI
-  - ABC (WAWV) Terre Haute IN
-  - ABC (WBAY) Green Bay WI
-  - ABC (WBKO) Bowling Green KY
-  - ABC (WCHS) Charleston West VA
-  - ABC (WCPO) Cincinnati OH
-  - ABC (WCTI) New Bern NC
-  - ABC (WCVB) Boston MA
-  - ABC (WDIO) Duluth Minnesota
-  - ABC (WEAR) Pensacola FL
-  - ABC (WEWS) Cleveland OH
-  - ABC (WFAA) Dallas TX
-  - ABC (WFTS) Tampa FL
-  - ABC (WGTU) Traverse City MI
-  - ABC (WHAM) Rochester NY
-  - ABC (WHAS) Louisville KY
-  - ABC (WHSV) Luray VA
-  - ABC (WICS) Springfield IL
-  - ABC (WJLA) Washington DC
-  - ABC (WJRT) Flint MI
-  - ABC (WJXX) Orange Park FL
-  - ABC (WKBW) Buffalo NY
-  - ABC (WKEF) Dayton OH
-  - ABC (WKOW) Madison WI
-  - ABC (WLAJ) Lansing MI
-  - ABC (WLOS) Asheville NC
-  - ABC (WLOX) Biloxi MS
-  - ABC (WLS) Chicago IL
-  - ABC (WMAR) Blatimore MD
-  - ABC (WMDT) Salisbury MD
-  - ABC (WMTW) Portland Maine
-  - ABC (WMUR) Manchester NH
-  - ABC (WNEP) Scranton PA
-  - ABC (WOI) Ames IA
-  - ABC (WOLO) Columbia SC
-  - ABC (WPLG) Miami FL
-  - ABC (WPTA) Fort Wayne IN
-  - ABC (WPVI) Philadelphia PA
-  - ABC (WQAD) Moline IL
-  - ABC (WRTV) Indianapolis IN
-  - ABC (WSB) Atlanta GA
-  - ABC (WSET) Lynchburg VA
-  - ABC (WSIL) Harrisburg IL
-  - ABC (WSOC) Charlotte NC
-  - ABC (WSYX) Columbus OH
-  - ABC (WTAE) Pittsburgh PA
-  - ABC (WTOK) Meridian MS
-  - ABC (WTVD) Durham NC
-  - ABC (WTVG) Toledo OH
-  - ABC (WTVM) Columbus Georgia
-  - ABC (WTVO) Rockford IL
-  - ABC (WTVQ) Lexington KY
-  - ABC (WTXL) Tallahassee FL
-  - ABC (WUTR) Utica NY
-  - ABC (WVEC) Hampton VA
-  - ABC (WWAY) Wilmington NC
-  - ABC (WWSB) Sarasota FL
-  - ABC (WXOW) La Crosse WI
-  - ABC (WXYZ) Detroit MI
-  - ABC (WZVN) Fort Myers FL
-  - ABC (WZZM) Grand Rapids MI
-  - CBS (KCAL) Los Angeles CA
-  - CBS (KCBS) Los Angeles CA
-  - CBS (KCNC) Denver CO
-  - CBS (KCOY) Santa Maria CA
-  - CBS (KCTV) Kansas City MO
-  - CBS (KDKA) Pittsburgh PA
-  - CBS (KELO) Sioux Falls SD
-  - CBS (KENS) San Antonio TX
-  - CBS (KEYE) Austin TX
-  - CBS (KFMB) San Diego CA
-  - CBS (KFVS) Cape Girardeau MO
-  - CBS (KGMB) Honolulu HI
-  - CBS (KHOU) Houston TX
-  - CBS (KION) Monterey CA
-  - CBS (KIRO) Seattle WA
-  - CBS (KKTV) Colorado Springs CO
-  - CBS (KLAS) Las Vegas NV
-  - CBS (KMOV) St Louis MO
-  - CBS (KMTV) Omaha NE
-  - CBS (KOIN) Portland OR
-  - CBS (KOLD) Tucson AZ
-  - CBS (KOLN) Lincoln NE
-  - CBS (KOTV) Tulsa OK
-  - CBS (KOVR) Stockton CA
-  - CBS (KPHO) Phoenix AZ
-  - CBS (KPIX) San Francisco CA
-  - CBS (KREM) Spokane WA
-  - CBS (KRQE) Albuquerque NM
-  - CBS (KSLA) Shreveport LA
-  - CBS (KTHV) Little Rock AR
-  - CBS (KTVN) Reno NV
-  - CBS (KTVT) Fort Worth TX
-  - CBS (KTXA) Fort Worth TX
-  - CBS (KUTV) Salt Lake City UT
-  - CBS (KWCH) Hutchinson KS
-  - CBS (KWTV) Oklahoma City OK
-  - CBS (KWTX) Waco TX
-  - CBS (KYW) Philadelphia PA
-  - CBS (WAKA) Selma AL
-  - CBS (WBBM) Chicago IL
-  - CBS (WBNS) Columbus OH
-  - CBS (WBOC) Salisbury MD
-  - CBS (WBTV) Charlotte NC
-  - CBS (WBZ) Boston MA
-  - CBS (WCAX) Burlington VT
-  - CBS (WCBS) New York NY
-  - CBS (WCCO) Minneapolis MN
-  - CBS (WCSC) Charleston SC
-  - CBS (WDBJ) Roanoke VA
-  - CBS (WDEF) Chattanooga TN
-  - CBS (WDJT) Milwaukee WI
-  - CBS (WFMY) Greensboro NC
-  - CBS (WFOR) Miami FL
-  - CBS (WGCL) Atlanta GA
-  - CBS (WGME) Portland Maine
-  - CBS (WHIO) Dayton OH
-  - CBS (WINK) Fort Myers FL
-  - CBS (WISC) Madison WI
-  - CBS (WIVB) Buffalo NY
-  - CBS (WJAX) Jacksonville FL
-  - CBS (WJZ) Baltimore MD
-  - CBS (WJTV) Jackson MS
-  - CBS (WKBT) La Crosse WI
-  - CBS (WKMG) Orlando FL
-  - CBS (WKRC) Cincinnati OH
-  - CBS (WKYT) Lexington KY
-  - CBS (WLKY) Louisville KY
-  - CBS (WLNY) Riverhead NY
-  - CBS (WLTX) Columbia SC
-  - CBS (WNCN) Goldsboro NC
-  - CBS (WNEM) Bay City MI
-  - CBS (WOIO) Shaker Heights OH
-  - CBS (WPRI) Providence RI
-  - CBS (WRDW) Augusta GA
-  - CBS (WSPA) Spartanburg SC
-  - CBS (WTOL) Toledo OH
-  - CBS (WTSP) St Petersburg FL
-  - CBS (WTVF) Nashville TN
-  - CBS (WUSA) Washington DC
-  - CBS (WVLT) Knoxville TN
-  - CBS (WWAY) Wilmington NC
-  - CBS (WWL) New Orleans LA
-  - CBS (WWJ) Detroit MI
-  - CBS (WYOU) Scranton PA
-  - FOX (KADN) Lafayette LA
-  - CW (KBCW) San Francisco CA
-  - CW (KMAX) Sacramento CA
-  - CW (KOCB) Oklahoma City OK
-  - CW (KSTW) Tacoma WA
-  - CW (KVCW) Las Vegas NV
-  - CW (WKBD) Detroit MI
-  - CW (WNUV) Baltimore MD
-  - CW (WPCW) Pittsburgh PA
-  - CW (WPSG) Philadelphia PA
-  - CW (WTOG) St Petersburg FL
-  - CW (WUCW) Minneapolis MN
-  - CW (WUPA) Atlanta GA
-  - FOX (KAYU) Spokane WA
-  - FOX (KCBA) Salinas CA
-  - FOX (KCPQ) Tacoma WA
-  - FOX (KDFW) Dallas TX
-  - FOX (KDVR) Denver CO
-  - Fox (KFTA) Fort Smith AR
-  - FOX (KFXK) Longview TX
-  - FOX (KHON) Honoluu HI
-  - FOX (KICU) San Jose CA
-  - FOX (KKFX) San Luis Obispo CA
-  - FOX (KLJB) Davenport IA
-  - FOX (KLRT) Little Rock AR
-  - FOX (KLSR) Eugene OR
-  - FOX (KMSB) Tucson AZ
-  - FOX (KMSP) Minneapolis MN
-  - FOX (KMSS) Shreveport LA
-  - FOX (KNIN) Caldwell ID
-  - FOX (KOKH) Oklahoma City OK
-  - FOX (KOKI) Tulsa OH
-  - FOX (KPTV) Portland OR
-  - FOX (KRBK) Osage Beach MO
-  - FOX (KRIV) Houston TX
-  - FOX (KRQEDT2) Albuquerque NM
-  - FOX (KSAZ) Phoenix AZ
-  - FOX (KSTU) Salt Lake City UT
-  - FOX (KSWB) San Diego CA
-  - FOX (KTBC) Austin TX
-  - FOX (KTTV) Los Angeles CA
-  - FOX (KTTW) Sioux Falls SD
-  - FOX (KTVI) St Louis MO
-  - FOX (KTVU) Oakland CA
-  - FOX (KTXL) Sacramento CA
-  - FOX (KVRR) Fargo ND
-  - FOX (KVVU) Henderson NV
-  - FOX (KWKT) Waco TX
-  - FOX (KXRM) Colorado Springs CO
-  - FOX (WAGA) Atlanta GA
-  - FOX (WALA) Mobile AL
-  - FOX (WBFF) Baltimore MD
-  - FOX (WBRC) Birmingham AL
-  - FOX (WDAF) Kansas City MO
-  - FOX (WDBD) Jackson MS
-  - FOX (WDRB) Louisville KY
-  - FOX (WFFF) Burlington VT
-  - FOX (WFFT) Fort Wayne IN
-  - FOX (WFLD) Chicago IL
-  - FOX (WFLX) West Palm Beach FL
-  - FOX (WFOX) Jacksonville FL
-  - FOX (WFTX) Cape Coral FL
-  - FOX (WFXB) Myrtle Beach SC
-  - FOX (WFXG) Augusta GA
-  - FOX (WFXR) Roanoke VA
-  - FOX (WFXT) Boston MA
-  - FOX (WGGB) Springfield MA
-  - FOX (WGHP) High Point NC
-  - FOX (WGMB) Baton Rogue LA
-  - FOX (WHBQ) Memphis TN
-  - FOX (WHNS) Greenville SC
-  - FOX (WITI) Milwaukee WI
-  - FOX (WJBK) Detroit MI
-  - FOX (WJW) Cleveland OH
-  - FOX (WJZY) Belmont NC
-  - FOX (WLAX) La Crosse WI
-  - FOX (WNAC) Providence RI
-  - FOX (WNYW) New York NY
-  - FOX (WOFL) Orlando FL
-  - FOX (WOGX) Ocala FL
-  - FOX (WPFO) Waterville ME
-  - FOX (WPGH) Pittsburgh PA
-  - FOX (WPMT) York PA
-  - FOX (WRAZ) Raleigh NC
-  - FOX (WSVN) Miami FL
-  - FOX (WSYM) Lansing MI
-  - FOX (WSYT) Syracuse NY
-  - FOX (WTAT) Charleston SC
-  - FOX (WTIC) Hartford CT
-  - FOX (WTNZ) Knoxville TN
-  - FOX (WTTG) Washington DC
-  - FOX (WTVT) Tampa FL
-  - FOX (WTXF) Philadelphia PA
-  - FOX (WUPW) Toledo OH
-  - FOX (WUTV) Buffalo NY
-  - FOX (WVBT) Virginia Beach VA
-  - FOX (WVUE) New Orleans LA
-  - FOX (WWCP) Johnstown PA
-  - FOX (WXIN) Indianapolis IN
-  - FOX (WXIX) Cincinnati OH
-  - FOX (WXMI) Grand Rapids MI
-  - FOX (WXTX) Columbus GA
-  - FOX (WXXA) Albany NY
-  - FOX (WYFX) Youngstown OH
-  - FOX (WZDX) Huntsville AL
-  - FOX (WZTV) Nashville TN
-  - IND (WMFP) Foxborough MA
-  - Me TV (KCCI) Des Moines IA
-  - My 50 (WPWR) Chicago IL
-  - My TV (KCOP) Los Angeles CA
-  - My TV (KFBI) OR
-  - NBC (WBFS) Miami FL
-  - NBC (KAIT) Jonesboro AR
-  - NBC (KALB) Alexandria LA
-  - NBC (KAMR) Amarillo TX
-  - NBC (KARE) Minneapolis MN
-  - NBC (KARK) Little Rock AR
-  - NBC (KBJR) Superior WI
-  - NBC (KBMT) Beaumont TX
-  - NBC (KCBD) Lubbock TX
-  - NBC (KCEN) Temple TX
-  - NBC (KCHY) Cheyenne WY
-  - NBC (KCRA) Sacramento CA
-  - NBC (KCWY) Casper WY
-  - NBC (KDLT) Sioux Falls SD
-  - NBC (KECI) Missoula MT
-  - NBC (KETK) Jacksonville TX
-  - NBC (KFOR) Oklahoma City OK
-  - NBC (KGET) Bakersfield CA
-  - NBC (KGNS) Laredo TX
-  - NBC (KGW) Lander WY
-  - NBC (KHNL) Honolulu HI
-  - NBC (KING) Seattle WA
-  - NBC (KJRH) Tulsa OK
-  - NBC (KKCO) Grand Junction CO
-  - NBC (KLAF) Lafayette LA
-  - NBC (KMTR) Eugene OR
-  - NBC (KNBC) Los Angeles CA
-  - NBC (KNDO) Yakima WA
-  - NBC (KNSD) San Diego CA
-  - NBC (KNTV) San Jose CA
-  - NBC (KNVN) Chico CA
-  - NBC (KOAA) Pueblo CO
-  - NBC (KOB) Albuquerque NM
-  - NBC (KOBI) Medford OR
-  - NBC (KPLC) Lake Charles LA
-  - NBC (KPNX) Phoenix AZ
-  - NBC (KPRC) Houston TX
-  - NBC (KRBC) Ablien TX
-  - NBC (KRNV) Reno NV
-  - NBC (KSBW) Salinas CA
-  - NBC (KSBY) San Luis Obispo CA
-  - NBC (KSDK) St Louis MO
-  - NBC (KSEE) Fresno CA
-  - NBC (KSHB) Kansas City MO
-  - NBC (KSL) Shreveport LA
-  - NBC (KSNB) Superior NE
-  - NBC (KSNT) Topeka KS
-  - NBC (KSNV) Las Vegas NV
-  - NBC (KTAL) Texarkana TX
-  - NBC (KTFT) Twin Falls ID
-  - NBC (KTGF) Great Falls MT
-  - NBC (KTIV) Sioux City IA
-  - NBC (KTSM) El Paso TX
-  - NBC (KTTC) Rochester MN
-  - NBC (KTUU) Anchorage AK
-  - NBC (KTVB) Boise ID
-  - NBC (KTVF) Fairbanks AK
-  - NBC (KTVH) Helena MT
-  - NBC (KTVM) Butte MT
-  - NBC (KULR) Billings MT
-  - NBC (KUSA) Denver CO
-  - NBC (KVEO) Brownsville TX
-  - NBC (KVOA) Tucson AZ
-  - NBC (KWES) Odessa TX
-  - NBC (KWWL) Waterloo IA
-  - NBC (KXAN) Austin TX
-  - NBC (KXAS) Fort Worth TX
-  - NBC (KYTV) Springfield MO
-  - NBC (WAFF) Huntsville AL
-  - NBC (WALB) Albany GA
-  - NBC (WAND) Decatur IL
-  - NBC (WAVE) Louisville KY
-  - NBC (WAVY) Portsmouth VA
-  - NBC (WBAL) Baltimore MD
-  - NBC (WBBH) Fort Myers FL
-  - NBC (WBGH) Binghamton NY
-  - NBC (WBIR) Knoxville TN
-  - NBC (WBOY) Clarksburg WV
-  - NBC (WBRE) Wilkes PA
-  - NBC (WBTS) Providence RI
-  - NBC (WCAU) Philadelphia PA
-  - NBC (WCBD) Charleston SC
-  - NBC (WCMH) Columbus OH
-  - NBC (WCNC) Charlotte NC
-  - NBC (WCSH) Portland ME
-  - NBC (WDAM) Laurel MS
-  - NBC (WDIV) Detroit MI
-  - NBC (WDSU) New Orleans LA
-  - NBC (WDTN) Dayton OH
-  - NBC (WEAU) La Crosse WI
-  - NBC (WECT) Wilmington NC
-  - NBC (WEEK) Peoria IL
-  - NBC (WESH) Daytona Beach FL
-  - NBC (WETM) Elmira NY
-  - NBC (WEYI) Saginaw MI
-  - NBC (WFLA) Tampa Fl
-  - NBC (WFMJ) Youngstown OH
-  - NBC (WGAL) Lancaster PA
-  - NBC (WGBA) Green Bay WI
-  - NBC (WGEM) Quincy IL
-  - NBC (WGRZ) Buffalo NY
-  - NBC (WHEC) Rochiester NY
-  - NBC (WHO) Des Moines IA
-  - NBC (WILX) Onondaga MI
-  - NBC (WIS) Columbia SC
-  - NBC (WITN) Washington NC
-  - NBC (WJAC) Johnstown PA
-  - NBC (WJAR) Providence RI
-  - NBC (WJHG) Panama City FL
-  - NBC (WKYC) Cleveland OH
-  - NBC (WLBT) Jackson MS
-  - NBC (WLBZ) Bangor ME
-  - NBC (WLEX) Lexington KY
-  - NBC (WLNY) Riverhead NY
-  - NBC (WLTZ) Columbus GA
-  - NBC (WLUC) Marquette MI
-  - NBC (WLWT) Cincinnati OH
-  - NBC (WMAQ) Chicago IL
-  - NBC (WMBF) Myrtle Beach SC
-  - NBC (WMC) Memphis TN
-  - NBC (WMGT) Macon GA
-  - NBC (WMTV) Madison WI
-  - NBC (WNBC) New York NY
-  - NBC (WNBW) Gainesville FL
-  - NBC (WNDU) South Bend IN
-  - NBC (WNWO) Toledo OH
-  - NBC (WNYT) Albany NY
-  - NBC (WOAI) San Antonio TX
-  - NBC (WOOD) Grand Rapids MI
-  - NBC (WOWT) Omaha NE
-  - NBC (WPBN) Traverse MI
-  - NBC (WPMI) Mobile AL
-  - NBC (WPTA) Fort Wayne IN
-  - NBC (WPTV) West Palm Beach FL
-  - NBC (WPTZ) Plattsburgh NY
-  - NBC (WPXI) Pittsburgh PA
-  - NBC (WRAL) Raleigh NC
-  - NBC (WRC) Washington DC
-  - NBC (WRCB) Chattanooga TN
-  - NBC (WREX) Rockford IL
-  - NBC (WRGX) Dothan AL
-  - NBC (WSAZ) Huntington WV
-  - NBC (WSBK) Boston MA
-  - NBC (WSFA) Montgomery AL
-  - NBC (WSLS) Roanoke VA
-  - NBC (WSMV) Nashville TN
-  - NBC (WTHR) Indianapolis IN
-  - NBC (WTLV) Jacksonville FL
-  - NBC (WTMJ) Milwaukee WI
-  - NBC (WTOV) Steubenville OH
-  - NBC (WTVJ) Miami FL
-  - NBC (WTWO) Terre Haute IN
-  - NBC (WUVP) Vineland NJ
-  - NBC (WVIR) Charlottesville VA
-  - NBC (WVIT) New Britain CT
-  - NBC (WVLA) Baton Rouge LA
-  - NBC (WVTM) Birmingham AL
-  - NBC (WWBT) Richmond VA
-  - NBC (WWLP) Springfield MA
-  - NBC (WXIA) Atlanta GA
-  - NBC (WXII) Winston Salem NC
-  - NBC (WXXV) Gulfport MS
-  - NBC (WYFF) Greenville SC
-  - NBC (WYZZ) Tulsa OK
+- ABC (KAAL) Austin Minnesota
+- ABC (KABC) Los Angeles CA
+- ABC (KAEF) Arcata CA
+- ABC (KAMC) Lubbock TX
+- ABC (KAPP) Yakima WA
+- ABC (KATU) Portland OR
+- ABC (KATV) Little Rock AR
+- ABC (KAVU) Victoria TX
+- ABC (KBMT) Beaumont TX
+- ABC (KCRG) Cedar Rapids IA
+- ABC (KDNL) St Louis MO
+- ABC (KDRV) Medford OR
+- ABC (KERO) Bakersfield CA
+- ABC (KESQ) Indio CA
+- ABC (KEYT) Santa Barbara CA
+- ABC (KEZI) Eugene OR
+- ABC (KFBB) Great Falls MT
+- ABC (KGO) San Francisco CA
+- ABC (KGTV) San Diego CA
+- ABC (KGUN) Tucson AZ
+- ABC (KIFI) Idaho Falls ID
+- ABC (KIII) Corpus Christi TX
+- ABC (KIVI) Nampa ID
+- ABC (KJCT) Grand Junction CO
+- ABC (KKTQ) Cheyenne Wyoming
+- ABC (KLTV) Tyler TX
+- ABC (KMGH) Denver CO
+- ABC (KMIZ) Columbia MO
+- ABC (KNXV) Phoenix AZ
+- ABC (KOAT) Albuquerque NM
+- ABC (KOCO) Oklahoma City OK
+- ABC (KODE) Joplin MO
+- ABC (KOLO) Reno NV
+- ABC (KOMO) Seattle WA
+- ABC (KOTA) Rapid City SD
+- ABC (KRCR) Redding CA
+- ABC (KRDO) CO Springs CO
+- ABC (KRGV) Weslaco TX
+- ABC (KSAT) San Antonio TX
+- ABC (KSFY) Sioux Falls SD
+- ABC (KSPR) Springfield MO
+- ABC (KSTP) Saint Paul MN
+- ABC (KSWO) Lawton OK
+- ABC (KTMF) Missoula MT
+- ABC (KTNV) Las Vegas NV
+- ABC (KTRK) Houston TX
+- ABC (KTUL) Tulsa OK
+- ABC (KTVO) Kirksville MO
+- ABC (KTXS) Sweetwater TX
+- ABC (KVIA) El Paso TX
+- ABC (KVII) Amarillo TX
+- ABC (KWYB) Butte MT
+- ABC (KXLY) Spokane WA
+- ABC (KXTV) Sacramento CA
+- ABC (KXXV) Waco TX
+- ABC (WAAY) Huntsville AL
+- ABC (WABC) New York NY
+- ABC (WAOW) Wausau WI
+- ABC (WAWV) Terre Haute IN
+- ABC (WBAY) Green Bay WI
+- ABC (WBKO) Bowling Green KY
+- ABC (WCHS) Charleston West VA
+- ABC (WCPO) Cincinnati OH
+- ABC (WCTI) New Bern NC
+- ABC (WCVB) Boston MA
+- ABC (WDIO) Duluth Minnesota
+- ABC (WEAR) Pensacola FL
+- ABC (WEWS) Cleveland OH
+- ABC (WFAA) Dallas TX
+- ABC (WFTS) Tampa FL
+- ABC (WGTU) Traverse City MI
+- ABC (WHAM) Rochester NY
+- ABC (WHAS) Louisville KY
+- ABC (WHSV) Luray VA
+- ABC (WICS) Springfield IL
+- ABC (WJLA) Washington DC
+- ABC (WJRT) Flint MI
+- ABC (WJXX) Orange Park FL
+- ABC (WKBW) Buffalo NY
+- ABC (WKEF) Dayton OH
+- ABC (WKOW) Madison WI
+- ABC (WLAJ) Lansing MI
+- ABC (WLOS) Asheville NC
+- ABC (WLOX) Biloxi MS
+- ABC (WLS) Chicago IL
+- ABC (WMAR) Blatimore MD
+- ABC (WMDT) Salisbury MD
+- ABC (WMTW) Portland Maine
+- ABC (WMUR) Manchester NH
+- ABC (WNEP) Scranton PA
+- ABC (WOI) Ames IA
+- ABC (WOLO) Columbia SC
+- ABC (WPLG) Miami FL
+- ABC (WPTA) Fort Wayne IN
+- ABC (WPVI) Philadelphia PA
+- ABC (WQAD) Moline IL
+- ABC (WRTV) Indianapolis IN
+- ABC (WSB) Atlanta GA
+- ABC (WSET) Lynchburg VA
+- ABC (WSIL) Harrisburg IL
+- ABC (WSOC) Charlotte NC
+- ABC (WSYX) Columbus OH
+- ABC (WTAE) Pittsburgh PA
+- ABC (WTOK) Meridian MS
+- ABC (WTVD) Durham NC
+- ABC (WTVG) Toledo OH
+- ABC (WTVM) Columbus Georgia
+- ABC (WTVO) Rockford IL
+- ABC (WTVQ) Lexington KY
+- ABC (WTXL) Tallahassee FL
+- ABC (WUTR) Utica NY
+- ABC (WVEC) Hampton VA
+- ABC (WWAY) Wilmington NC
+- ABC (WWSB) Sarasota FL
+- ABC (WXOW) La Crosse WI
+- ABC (WXYZ) Detroit MI
+- ABC (WZVN) Fort Myers FL
+- ABC (WZZM) Grand Rapids MI
+- CBS (KCAL) Los Angeles CA
+- CBS (KCBS) Los Angeles CA
+- CBS (KCNC) Denver CO
+- CBS (KCOY) Santa Maria CA
+- CBS (KCTV) Kansas City MO
+- CBS (KDKA) Pittsburgh PA
+- CBS (KELO) Sioux Falls SD
+- CBS (KENS) San Antonio TX
+- CBS (KEYE) Austin TX
+- CBS (KFMB) San Diego CA
+- CBS (KFVS) Cape Girardeau MO
+- CBS (KGMB) Honolulu HI
+- CBS (KHOU) Houston TX
+- CBS (KION) Monterey CA
+- CBS (KIRO) Seattle WA
+- CBS (KKTV) Colorado Springs CO
+- CBS (KLAS) Las Vegas NV
+- CBS (KMOV) St Louis MO
+- CBS (KMTV) Omaha NE
+- CBS (KOIN) Portland OR
+- CBS (KOLD) Tucson AZ
+- CBS (KOLN) Lincoln NE
+- CBS (KOTV) Tulsa OK
+- CBS (KOVR) Stockton CA
+- CBS (KPHO) Phoenix AZ
+- CBS (KPIX) San Francisco CA
+- CBS (KREM) Spokane WA
+- CBS (KRQE) Albuquerque NM
+- CBS (KSLA) Shreveport LA
+- CBS (KTHV) Little Rock AR
+- CBS (KTVN) Reno NV
+- CBS (KTVT) Fort Worth TX
+- CBS (KTXA) Fort Worth TX
+- CBS (KUTV) Salt Lake City UT
+- CBS (KWCH) Hutchinson KS
+- CBS (KWTV) Oklahoma City OK
+- CBS (KWTX) Waco TX
+- CBS (KYW) Philadelphia PA
+- CBS (WAKA) Selma AL
+- CBS (WBBM) Chicago IL
+- CBS (WBNS) Columbus OH
+- CBS (WBOC) Salisbury MD
+- CBS (WBTV) Charlotte NC
+- CBS (WBZ) Boston MA
+- CBS (WCAX) Burlington VT
+- CBS (WCBS) New York NY
+- CBS (WCCO) Minneapolis MN
+- CBS (WCSC) Charleston SC
+- CBS (WDBJ) Roanoke VA
+- CBS (WDEF) Chattanooga TN
+- CBS (WDJT) Milwaukee WI
+- CBS (WFMY) Greensboro NC
+- CBS (WFOR) Miami FL
+- CBS (WGCL) Atlanta GA
+- CBS (WGME) Portland Maine
+- CBS (WHIO) Dayton OH
+- CBS (WINK) Fort Myers FL
+- CBS (WISC) Madison WI
+- CBS (WIVB) Buffalo NY
+- CBS (WJAX) Jacksonville FL
+- CBS (WJZ) Baltimore MD
+- CBS (WJTV) Jackson MS
+- CBS (WKBT) La Crosse WI
+- CBS (WKMG) Orlando FL
+- CBS (WKRC) Cincinnati OH
+- CBS (WKYT) Lexington KY
+- CBS (WLKY) Louisville KY
+- CBS (WLNY) Riverhead NY
+- CBS (WLTX) Columbia SC
+- CBS (WNCN) Goldsboro NC
+- CBS (WNEM) Bay City MI
+- CBS (WOIO) Shaker Heights OH
+- CBS (WPRI) Providence RI
+- CBS (WRDW) Augusta GA
+- CBS (WSPA) Spartanburg SC
+- CBS (WTOL) Toledo OH
+- CBS (WTSP) St Petersburg FL
+- CBS (WTVF) Nashville TN
+- CBS (WUSA) Washington DC
+- CBS (WVLT) Knoxville TN
+- CBS (WWAY) Wilmington NC
+- CBS (WWL) New Orleans LA
+- CBS (WWJ) Detroit MI
+- CBS (WYOU) Scranton PA
+- FOX (KADN) Lafayette LA
+- CW (KBCW) San Francisco CA
+- CW (KMAX) Sacramento CA
+- CW (KOCB) Oklahoma City OK
+- CW (KSTW) Tacoma WA
+- CW (KVCW) Las Vegas NV
+- CW (WKBD) Detroit MI
+- CW (WNUV) Baltimore MD
+- CW (WPCW) Pittsburgh PA
+- CW (WPSG) Philadelphia PA
+- CW (WTOG) St Petersburg FL
+- CW (WUCW) Minneapolis MN
+- CW (WUPA) Atlanta GA
+- FOX (KAYU) Spokane WA
+- FOX (KCBA) Salinas CA
+- FOX (KCPQ) Tacoma WA
+- FOX (KDFW) Dallas TX
+- FOX (KDVR) Denver CO
+- Fox (KFTA) Fort Smith AR
+- FOX (KFXK) Longview TX
+- FOX (KHON) Honoluu HI
+- FOX (KICU) San Jose CA
+- FOX (KKFX) San Luis Obispo CA
+- FOX (KLJB) Davenport IA
+- FOX (KLRT) Little Rock AR
+- FOX (KLSR) Eugene OR
+- FOX (KMSB) Tucson AZ
+- FOX (KMSP) Minneapolis MN
+- FOX (KMSS) Shreveport LA
+- FOX (KNIN) Caldwell ID
+- FOX (KOKH) Oklahoma City OK
+- FOX (KOKI) Tulsa OH
+- FOX (KPTV) Portland OR
+- FOX (KRBK) Osage Beach MO
+- FOX (KRIV) Houston TX
+- FOX (KRQEDT2) Albuquerque NM
+- FOX (KSAZ) Phoenix AZ
+- FOX (KSTU) Salt Lake City UT
+- FOX (KSWB) San Diego CA
+- FOX (KTBC) Austin TX
+- FOX (KTTV) Los Angeles CA
+- FOX (KTTW) Sioux Falls SD
+- FOX (KTVI) St Louis MO
+- FOX (KTVU) Oakland CA
+- FOX (KTXL) Sacramento CA
+- FOX (KVRR) Fargo ND
+- FOX (KVVU) Henderson NV
+- FOX (KWKT) Waco TX
+- FOX (KXRM) Colorado Springs CO
+- FOX (WAGA) Atlanta GA
+- FOX (WALA) Mobile AL
+- FOX (WBFF) Baltimore MD
+- FOX (WBRC) Birmingham AL
+- FOX (WDAF) Kansas City MO
+- FOX (WDBD) Jackson MS
+- FOX (WDRB) Louisville KY
+- FOX (WFFF) Burlington VT
+- FOX (WFFT) Fort Wayne IN
+- FOX (WFLD) Chicago IL
+- FOX (WFLX) West Palm Beach FL
+- FOX (WFOX) Jacksonville FL
+- FOX (WFTX) Cape Coral FL
+- FOX (WFXB) Myrtle Beach SC
+- FOX (WFXG) Augusta GA
+- FOX (WFXR) Roanoke VA
+- FOX (WFXT) Boston MA
+- FOX (WGGB) Springfield MA
+- FOX (WGHP) High Point NC
+- FOX (WGMB) Baton Rogue LA
+- FOX (WHBQ) Memphis TN
+- FOX (WHNS) Greenville SC
+- FOX (WITI) Milwaukee WI
+- FOX (WJBK) Detroit MI
+- FOX (WJW) Cleveland OH
+- FOX (WJZY) Belmont NC
+- FOX (WLAX) La Crosse WI
+- FOX (WNAC) Providence RI
+- FOX (WNYW) New York NY
+- FOX (WOFL) Orlando FL
+- FOX (WOGX) Ocala FL
+- FOX (WPFO) Waterville ME
+- FOX (WPGH) Pittsburgh PA
+- FOX (WPMT) York PA
+- FOX (WRAZ) Raleigh NC
+- FOX (WSVN) Miami FL
+- FOX (WSYM) Lansing MI
+- FOX (WSYT) Syracuse NY
+- FOX (WTAT) Charleston SC
+- FOX (WTIC) Hartford CT
+- FOX (WTNZ) Knoxville TN
+- FOX (WTTG) Washington DC
+- FOX (WTVT) Tampa FL
+- FOX (WTXF) Philadelphia PA
+- FOX (WUPW) Toledo OH
+- FOX (WUTV) Buffalo NY
+- FOX (WVBT) Virginia Beach VA
+- FOX (WVUE) New Orleans LA
+- FOX (WWCP) Johnstown PA
+- FOX (WXIN) Indianapolis IN
+- FOX (WXIX) Cincinnati OH
+- FOX (WXMI) Grand Rapids MI
+- FOX (WXTX) Columbus GA
+- FOX (WXXA) Albany NY
+- FOX (WYFX) Youngstown OH
+- FOX (WZDX) Huntsville AL
+- FOX (WZTV) Nashville TN
+- IND (WMFP) Foxborough MA
+- Me TV (KCCI) Des Moines IA
+- My 50 (WPWR) Chicago IL
+- My TV (KCOP) Los Angeles CA
+- My TV (KFBI) OR
+- NBC (WBFS) Miami FL
+- NBC (KAIT) Jonesboro AR
+- NBC (KALB) Alexandria LA
+- NBC (KAMR) Amarillo TX
+- NBC (KARE) Minneapolis MN
+- NBC (KARK) Little Rock AR
+- NBC (KBJR) Superior WI
+- NBC (KBMT) Beaumont TX
+- NBC (KCBD) Lubbock TX
+- NBC (KCEN) Temple TX
+- NBC (KCHY) Cheyenne WY
+- NBC (KCRA) Sacramento CA
+- NBC (KCWY) Casper WY
+- NBC (KDLT) Sioux Falls SD
+- NBC (KECI) Missoula MT
+- NBC (KETK) Jacksonville TX
+- NBC (KFOR) Oklahoma City OK
+- NBC (KGET) Bakersfield CA
+- NBC (KGNS) Laredo TX
+- NBC (KGW) Lander WY
+- NBC (KHNL) Honolulu HI
+- NBC (KING) Seattle WA
+- NBC (KJRH) Tulsa OK
+- NBC (KKCO) Grand Junction CO
+- NBC (KLAF) Lafayette LA
+- NBC (KMTR) Eugene OR
+- NBC (KNBC) Los Angeles CA
+- NBC (KNDO) Yakima WA
+- NBC (KNSD) San Diego CA
+- NBC (KNTV) San Jose CA
+- NBC (KNVN) Chico CA
+- NBC (KOAA) Pueblo CO
+- NBC (KOB) Albuquerque NM
+- NBC (KOBI) Medford OR
+- NBC (KPLC) Lake Charles LA
+- NBC (KPNX) Phoenix AZ
+- NBC (KPRC) Houston TX
+- NBC (KRBC) Ablien TX
+- NBC (KRNV) Reno NV
+- NBC (KSBW) Salinas CA
+- NBC (KSBY) San Luis Obispo CA
+- NBC (KSDK) St Louis MO
+- NBC (KSEE) Fresno CA
+- NBC (KSHB) Kansas City MO
+- NBC (KSL) Shreveport LA
+- NBC (KSNB) Superior NE
+- NBC (KSNT) Topeka KS
+- NBC (KSNV) Las Vegas NV
+- NBC (KTAL) Texarkana TX
+- NBC (KTFT) Twin Falls ID
+- NBC (KTGF) Great Falls MT
+- NBC (KTIV) Sioux City IA
+- NBC (KTSM) El Paso TX
+- NBC (KTTC) Rochester MN
+- NBC (KTUU) Anchorage AK
+- NBC (KTVB) Boise ID
+- NBC (KTVF) Fairbanks AK
+- NBC (KTVH) Helena MT
+- NBC (KTVM) Butte MT
+- NBC (KULR) Billings MT
+- NBC (KUSA) Denver CO
+- NBC (KVEO) Brownsville TX
+- NBC (KVOA) Tucson AZ
+- NBC (KWES) Odessa TX
+- NBC (KWWL) Waterloo IA
+- NBC (KXAN) Austin TX
+- NBC (KXAS) Fort Worth TX
+- NBC (KYTV) Springfield MO
+- NBC (WAFF) Huntsville AL
+- NBC (WALB) Albany GA
+- NBC (WAND) Decatur IL
+- NBC (WAVE) Louisville KY
+- NBC (WAVY) Portsmouth VA
+- NBC (WBAL) Baltimore MD
+- NBC (WBBH) Fort Myers FL
+- NBC (WBGH) Binghamton NY
+- NBC (WBIR) Knoxville TN
+- NBC (WBOY) Clarksburg WV
+- NBC (WBRE) Wilkes PA
+- NBC (WBTS) Providence RI
+- NBC (WCAU) Philadelphia PA
+- NBC (WCBD) Charleston SC
+- NBC (WCMH) Columbus OH
+- NBC (WCNC) Charlotte NC
+- NBC (WCSH) Portland ME
+- NBC (WDAM) Laurel MS
+- NBC (WDIV) Detroit MI
+- NBC (WDSU) New Orleans LA
+- NBC (WDTN) Dayton OH
+- NBC (WEAU) La Crosse WI
+- NBC (WECT) Wilmington NC
+- NBC (WEEK) Peoria IL
+- NBC (WESH) Daytona Beach FL
+- NBC (WETM) Elmira NY
+- NBC (WEYI) Saginaw MI
+- NBC (WFLA) Tampa Fl
+- NBC (WFMJ) Youngstown OH
+- NBC (WGAL) Lancaster PA
+- NBC (WGBA) Green Bay WI
+- NBC (WGEM) Quincy IL
+- NBC (WGRZ) Buffalo NY
+- NBC (WHEC) Rochiester NY
+- NBC (WHO) Des Moines IA
+- NBC (WILX) Onondaga MI
+- NBC (WIS) Columbia SC
+- NBC (WITN) Washington NC
+- NBC (WJAC) Johnstown PA
+- NBC (WJAR) Providence RI
+- NBC (WJHG) Panama City FL
+- NBC (WKYC) Cleveland OH
+- NBC (WLBT) Jackson MS
+- NBC (WLBZ) Bangor ME
+- NBC (WLEX) Lexington KY
+- NBC (WLNY) Riverhead NY
+- NBC (WLTZ) Columbus GA
+- NBC (WLUC) Marquette MI
+- NBC (WLWT) Cincinnati OH
+- NBC (WMAQ) Chicago IL
+- NBC (WMBF) Myrtle Beach SC
+- NBC (WMC) Memphis TN
+- NBC (WMGT) Macon GA
+- NBC (WMTV) Madison WI
+- NBC (WNBC) New York NY
+- NBC (WNBW) Gainesville FL
+- NBC (WNDU) South Bend IN
+- NBC (WNWO) Toledo OH
+- NBC (WNYT) Albany NY
+- NBC (WOAI) San Antonio TX
+- NBC (WOOD) Grand Rapids MI
+- NBC (WOWT) Omaha NE
+- NBC (WPBN) Traverse MI
+- NBC (WPMI) Mobile AL
+- NBC (WPTA) Fort Wayne IN
+- NBC (WPTV) West Palm Beach FL
+- NBC (WPTZ) Plattsburgh NY
+- NBC (WPXI) Pittsburgh PA
+- NBC (WRAL) Raleigh NC
+- NBC (WRC) Washington DC
+- NBC (WRCB) Chattanooga TN
+- NBC (WREX) Rockford IL
+- NBC (WRGX) Dothan AL
+- NBC (WSAZ) Huntington WV
+- NBC (WSBK) Boston MA
+- NBC (WSFA) Montgomery AL
+- NBC (WSLS) Roanoke VA
+- NBC (WSMV) Nashville TN
+- NBC (WTHR) Indianapolis IN
+- NBC (WTLV) Jacksonville FL
+- NBC (WTMJ) Milwaukee WI
+- NBC (WTOV) Steubenville OH
+- NBC (WTVJ) Miami FL
+- NBC (WTWO) Terre Haute IN
+- NBC (WUVP) Vineland NJ
+- NBC (WVIR) Charlottesville VA
+- NBC (WVIT) New Britain CT
+- NBC (WVLA) Baton Rouge LA
+- NBC (WVTM) Birmingham AL
+- NBC (WWBT) Richmond VA
+- NBC (WWLP) Springfield MA
+- NBC (WXIA) Atlanta GA
+- NBC (WXII) Winston Salem NC
+- NBC (WXXV) Gulfport MS
+- NBC (WYFF) Greenville SC
+- NBC (WYZZ) Tulsa OK
 
 </details>
 
 ## PPV / EVENTS
 
-<details markdown="span">
+<details>
 
 - \=====PPV/EVENTS=====
 - EVENTS 1: 10:30AM Super DIRTcar Series
@@ -1188,7 +1184,7 @@
 
 ## ESPN PLUS
 
-<details markdown="span">
+<details>
 
 - ESPN+ 001
 - ESPN+ 002
@@ -1445,7 +1441,7 @@
 
 ## SUPERSPORT
 
-<details markdown="span">
+<details>
 
 - SUPER SPORTS CH 431
 - SUPER SPORTS CH 432
@@ -1497,7 +1493,7 @@
 
 ## NBC GOLD
 
-<details markdown="span">
+<details>
 
 - NBCSN
 - NBCSN BAY AREA
@@ -1556,7 +1552,7 @@
 
 ## NFL / NCAAF
 
-<details markdown="span">
+<details>
 
 - NFL NETWORK
 - NFL REDZONE
@@ -1687,7 +1683,7 @@
 
 ## NBA / WNBA
 
-<details markdown="span">
+<details>
 
 - NBA: ABC (GAMES ONLY)
 - NBA: ESPN (GAMES ONLY)
@@ -1760,7 +1756,7 @@
 
 ## MLB / NCAA BASEBALL
 
-<details markdown="span">
+<details>
 
 - MLB NETWORK
 - MLB STRIKE ZONE
@@ -1911,7 +1907,7 @@
 
 ## NHL / ECHL
 
-<details markdown="span">
+<details>
 
 - NHL 4K:
 - NHL 1:
@@ -1985,7 +1981,7 @@
 
 ## FUTBOL / RUGBY
 
-<details markdown="span">
+<details>
 
 - BARCA TV esp
 - REAL MADRID TV eng (DIRECT)
@@ -2095,7 +2091,7 @@
 
 ## F1 TV
 
-<details markdown="span">
+<details>
 
 - F1TV: Main Feed (race qualifying practice)
 - F1TV: Pit Lane Channel
@@ -2126,7 +2122,7 @@
 
 ## NCAAB
 
-<details markdown="span">
+<details>
 
 - NCAAB 4K:
 - NCAAB 01:
@@ -2217,7 +2213,7 @@
 
 ## MUSIC
 
-<details markdown="span">
+<details>
 
 - Music Choice 00: 70s Audio Channel
 - Music Choice 01: 80sRock Audio Channel
@@ -2322,7 +2318,7 @@
 
 ## RELIGION
 
-<details markdown="span">
+<details>
 
 - THE WORD NETWORK
 - RELIGION: 3ABN
@@ -2352,7 +2348,7 @@
 
 ## CANADA
 
-<details markdown="span">
+<details>
 
 - CA: A&E
 - CA: ABC SPARK CANADA
@@ -2436,7 +2432,7 @@
 
 ## UK
 
-<details markdown="span">
+<details>
 
 - UK: 4 SEVEN | VIP
 - UK: 5Star
@@ -2543,7 +2539,7 @@
 
 ## LATINO
 
-<details markdown="span">
+<details>
 
 - ES: 24h
 - ES: A&E
@@ -2816,7 +2812,7 @@
 
 ## GERMAN
 
-<details markdown="span">
+<details>
 
 - DE: 13TH STREET HD
 - DE: 13th Street HD 1080P
@@ -2994,7 +2990,7 @@
 
 ## FILIPINO
 
-<details markdown="span">
+<details>
 
 - FILIPINO: ABS-CBN
 - FILIPINO: ANC
@@ -3006,7 +3002,7 @@
 
 ## CARIBBEAN
 
-<details markdown="span">
+<details>
 
 - CAR: 3abn Caribbean
 - CAR: Arts
@@ -3107,7 +3103,7 @@
 
 ## PORTGUESE
 
-<details markdown="span">
+<details>
 
 - Portugal- 24 Kitchen FHD
 - Portugal- A Bola TV
@@ -3232,7 +3228,7 @@
 
 ## BRAZIL
 
-<details markdown="span">
+<details>
 
 - BR: A & E
 - BR: AMC
@@ -3377,7 +3373,7 @@
 
 ## ISP SUCK TEST
 
-<details markdown="span">
+<details>
 
 - \==Does your ISP suck==
 - \==If all have issues ur ISP sucks if 1 or 2 ur ISP has bad routing==
