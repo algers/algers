@@ -1,7 +1,7 @@
 
 ## NETWORK TV
 
-<details>
+<details markdown="span">
 
 - ABC EAST
 - ABC EAST Low
@@ -273,7 +273,7 @@
 
 ## SPORTS NETWORKS
 
-<details>
+<details markdown="span">
 
 - ESPN (East Server)
 - ESPN (West Server)
@@ -511,7 +511,7 @@
 
 ## PREMIUM MOVIE CHANNELS
 
-<details>
+<details markdown="span">
 
 - HBO
 - HBO WEST
@@ -612,7 +612,7 @@
 
 ## REGIONAL LOCALS
 
-<details>
+<details markdown="span">
 
 - ABC (KAAL) Austin Minnesota
 - ABC (KABC) Los Angeles CA
@@ -1096,7 +1096,7 @@
 
 ## PPV / EVENTS
 
-<details>
+<details markdown="span">
 
 - \=====PPV/EVENTS=====
 - EVENTS 1: 10:30AM Super DIRTcar Series
@@ -1184,7 +1184,7 @@
 
 ## ESPN PLUS
 
-<details>
+<details markdown="span">
 
 - ESPN+ 001
 - ESPN+ 002
@@ -1441,7 +1441,7 @@
 
 ## SUPERSPORT
 
-<details>
+<details markdown="span">
 
 - SUPER SPORTS CH 431
 - SUPER SPORTS CH 432
@@ -1493,7 +1493,7 @@
 
 ## NBC GOLD
 
-<details>
+<details markdown="span">
 
 - NBCSN
 - NBCSN BAY AREA
@@ -1552,7 +1552,7 @@
 
 ## NFL / NCAAF
 
-<details>
+<details markdown="span">
 
 - NFL NETWORK
 - NFL REDZONE
@@ -1683,7 +1683,7 @@
 
 ## NBA / WNBA
 
-<details>
+<details markdown="span">
 
 - NBA: ABC (GAMES ONLY)
 - NBA: ESPN (GAMES ONLY)
@@ -1756,7 +1756,7 @@
 
 ## MLB / NCAA BASEBALL
 
-<details>
+<details markdown="span">
 
 - MLB NETWORK
 - MLB STRIKE ZONE
@@ -1907,7 +1907,7 @@
 
 ## NHL / ECHL
 
-<details>
+<details markdown="span">
 
 - NHL 4K:
 - NHL 1:
@@ -1981,7 +1981,7 @@
 
 ## FUTBOL / RUGBY
 
-<details>
+<details markdown="span">
 
 - BARCA TV esp
 - REAL MADRID TV eng (DIRECT)
@@ -2091,7 +2091,7 @@
 
 ## F1 TV
 
-<details>
+<details markdown="span">
 
 - F1TV: Main Feed (race qualifying practice)
 - F1TV: Pit Lane Channel
@@ -2122,7 +2122,7 @@
 
 ## NCAAB
 
-<details>
+<details markdown="span">
 
 - NCAAB 4K:
 - NCAAB 01:
@@ -2213,7 +2213,7 @@
 
 ## MUSIC
 
-<details>
+<details markdown="span">
 
 - Music Choice 00: 70s Audio Channel
 - Music Choice 01: 80sRock Audio Channel
@@ -2318,7 +2318,7 @@
 
 ## RELIGION
 
-<details>
+<details markdown="span">
 
 - THE WORD NETWORK
 - RELIGION: 3ABN
@@ -2348,7 +2348,7 @@
 
 ## CANADA
 
-<details>
+<details markdown="span">
 
 - CA: A&E
 - CA: ABC SPARK CANADA
@@ -2432,7 +2432,7 @@
 
 ## UK
 
-<details>
+<details markdown="span">
 
 - UK: 4 SEVEN | VIP
 - UK: 5Star
@@ -2539,7 +2539,7 @@
 
 ## LATINO
 
-<details>
+<details markdown="span">
 
 - ES: 24h
 - ES: A&E
@@ -2812,7 +2812,7 @@
 
 ## GERMAN
 
-<details>
+<details markdown="span">
 
 - DE: 13TH STREET HD
 - DE: 13th Street HD 1080P
@@ -2990,7 +2990,7 @@
 
 ## FILIPINO
 
-<details>
+<details markdown="span">
 
 - FILIPINO: ABS-CBN
 - FILIPINO: ANC
@@ -3002,7 +3002,7 @@
 
 ## CARIBBEAN
 
-<details>
+<details markdown="span">
 
 - CAR: 3abn Caribbean
 - CAR: Arts
@@ -3103,7 +3103,7 @@
 
 ## PORTGUESE
 
-<details>
+<details markdown="span">
 
 - Portugal- 24 Kitchen FHD
 - Portugal- A Bola TV
@@ -3228,7 +3228,7 @@
 
 ## BRAZIL
 
-<details>
+<details markdown="span">
 
 - BR: A & E
 - BR: AMC
@@ -3373,7 +3373,7 @@
 
 ## ISP SUCK TEST
 
-<details>
+<details markdown="span">
 
 - \==Does your ISP suck==
 - \==If all have issues ur ISP sucks if 1 or 2 ur ISP has bad routing==
