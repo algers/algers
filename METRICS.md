@@ -3690,7 +3690,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>common-nighthawk/go-figure</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3732,7 +3732,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phuctm97/ntast</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
