@@ -3695,7 +3695,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thiagorossener/jekflix-template</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3737,7 +3737,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>common-nighthawk/go-figure</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3779,7 +3779,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phuctm97/ntast</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
