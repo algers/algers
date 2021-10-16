@@ -3695,7 +3695,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mroth/slacknimate</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3737,7 +3737,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>orhanbalci/rasciigraph</span>
-                                            <span>starred 5 hours ago</span>
+                                            <span>starred 6 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -3775,7 +3775,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>szenius/notion-burndown</span>
-                                            <span>starred 5 hours ago</span>
+                                            <span>starred 6 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
