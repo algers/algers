@@ -1395,7 +1395,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            856 Commits
+            857 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1471,7 +1471,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    16.2m added, 12.2m removed
+                    14.8m added, 11.6m removed
                   
                 </div>
                             </section>
@@ -1512,14 +1512,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="344.9318209231861" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="344.9318209231861" y="0" width="41.7853194103823" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="386.7171403335684" y="0" width="31.95029328727149" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="418.6674336208399" y="0" width="25.787375755915527" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="444.4548093767554" y="0" width="10.790710730056592" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.24552010681197" y="0" width="3.300338330413169" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.54585843722515" y="0" width="1.2077234601624693" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.7535818973876" y="0" width="0.24641810261235203" height="8" fill="#4298b8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.65966917249295" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="375.65966917249295" y="0" width="30.62695256915572" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="406.2866217416487" y="0" width="23.418275386851356" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="429.7048971285" y="0" width="18.90110558693453" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="448.60600271543456" y="0" width="7.9091554254054035" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.51515814083996" y="0" width="2.4190147863896847" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.9341729272296" y="0" width="0.8852125495985088" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.81938547682813" y="0" width="0.18061452317185492" height="8" fill="#4298b8"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3671,10 +3671,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.92 0,2.92 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.92 1.7,3.92 z"/>
                             </g>
-                            <g transform="translate(-10.2, 10.8)">
+                            <g transform="translate(-10.2, 10.68)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2 0,2.2 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2 1.7,3.2 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3200000000000003 0,2.3200000000000003 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3200000000000003 1.7,3.3200000000000003 z"/>
                             </g>
                         </g>
                     </g>
@@ -3695,7 +3695,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mroth/slacknimate</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3737,7 +3737,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>orhanbalci/rasciigraph</span>
-                                            <span>starred 2 hours ago</span>
+                                            <span>starred 3 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -3775,7 +3775,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>szenius/notion-burndown</span>
-                                            <span>starred 2 hours ago</span>
+                                            <span>starred 3 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
