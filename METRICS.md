@@ -3645,7 +3645,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jamietsao/slack-multi-channel-invite</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3683,7 +3683,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jlumbroso/slacktivate</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3725,7 +3725,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ErikKalkoken/slackApiDoc</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
