@@ -3680,7 +3680,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cybertec-postgresql/pg_timetable</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3722,7 +3722,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saulpw/visidata</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3764,7 +3764,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>httpie/httpie-oauth</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
