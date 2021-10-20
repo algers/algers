@@ -1498,14 +1498,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.71867512888406" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="376.71867512888406" y="0" width="30.153193438165015" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="406.8718685670491" y="0" width="23.056025118186067" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="429.9278936852351" y="0" width="18.60873006124649" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="448.53662374648167" y="0" width="7.9030657874342625" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.4396895339159" y="0" width="2.5109703521987785" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.9506598861147" y="0" width="0.871519462527802" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.8221793486425" y="0" width="0.17782065135751143" height="8" fill="#4298b8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.7894044059765" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="376.7894044059765" y="0" width="30.127584892945414" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="406.9169892989219" y="0" width="23.03644406575014" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="429.95343336467204" y="0" width="18.592926013617838" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="448.5463593782899" y="0" width="7.896353860951051" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.44271323924096" y="0" width="2.5088378318758076" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.95155107111674" y="0" width="0.8707792972908538" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.8223303684076" y="0" width="0.17766963159237095" height="8" fill="#4298b8"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2623,7 +2623,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dbrgn/tealdeer</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2665,7 +2665,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blacha/diablo2</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2707,7 +2707,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cybertec-postgresql/pg_timetable</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2749,7 +2749,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saulpw/visidata</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2788,7 +2788,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20/10/2021, 16:03 (timezone America/Chicago) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 20/10/2021, 17:03 (timezone America/Chicago) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
