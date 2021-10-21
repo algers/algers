@@ -3685,7 +3685,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dbrgn/tealdeer</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3727,7 +3727,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blacha/diablo2</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3769,7 +3769,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cybertec-postgresql/pg_timetable</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
