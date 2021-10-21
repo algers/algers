@@ -3685,7 +3685,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dbrgn/tealdeer</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3727,7 +3727,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blacha/diablo2</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
