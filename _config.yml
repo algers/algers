@@ -1,7 +1,8 @@
+title: 'alge.rs'
+url: "https://alge.rs"
 markdown: CommonMarkGhPages
 remote_theme: b2a3e8/jekyll-theme-console
 style: hacker
 header_pages:
-  - '/'
-  - ascii.md
+  - 'index.md'
 google-analytics: G-R3MLS3YS29
