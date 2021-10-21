@@ -89,6 +89,7 @@ footer {
     margin: 20px auto 15px;
     padding-top: 10px;
     text-align: right;
+    text-decoration: none;
 }
 
 header {
@@ -145,8 +146,8 @@ footer {
  */
 
 .menu {
-    border-top: var(--border);
-    border-bottom: var(--border);
+    // border-top: var(--border);
+    // border-bottom: var(--border);
     margin-bottom: 25px;
 }
 
