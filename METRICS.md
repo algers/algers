@@ -3690,7 +3690,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cydrobolt/polr</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3732,7 +3732,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>jrean/laravel-user-verification</span>
-                                            <span>starred 4 hours ago</span>
+                                            <span>starred 5 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -3774,7 +3774,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>orchidsoftware/platform</span>
-                                            <span>starred 4 hours ago</span>
+                                            <span>starred 5 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
