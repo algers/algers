@@ -3690,7 +3690,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jtdaugherty/tart</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3732,7 +3732,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akavel/up</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3774,7 +3774,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wtfutil/wtf</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
