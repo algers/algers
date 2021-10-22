@@ -3690,7 +3690,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>laravel/dusk</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3732,7 +3732,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clarkeash/doorman</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3774,7 +3774,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jtdaugherty/tart</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
