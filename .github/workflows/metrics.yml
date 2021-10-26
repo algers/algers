@@ -5,22 +5,18 @@ on:
   schedule: [{ cron: '0 * * * *' }]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: { branches: ['master', 'main'] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: algers
           template: classic
           filename: METRICS.md
-#          markdown: TEMPLATE.md
-#          markdown_cache: .cached
           base: header, activity, community, repositories
           config_timezone: America/Chicago
           plugin_gists: yes
@@ -54,4 +50,3 @@ jobs:
           plugin_music_limit: 4 # Limit to 4 entries
           plugin_music_played_at: yes # Show timestamp (for spotify only)
           plugin_music_token: '${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}'
-#          config_output: json
