@@ -1,9 +1,9 @@
 
-source: src
-sass:
-  sass_dirc: src/_sass
+# source: src
+# sass:
+#   sass_dirc: src/_sass
 
-destination: dist
+
 # google_analytics: G-R3MLS3YS29
 title: ''
 # url: "https://alge.rs"
