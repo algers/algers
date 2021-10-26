@@ -5,7 +5,7 @@ sass:
 
 destination: dist
 # google_analytics: G-R3MLS3YS29
-title: '~'
+title: ''
 # url: "https://alge.rs"
 markdown: CommonMarkGhPages
 style: hacker
