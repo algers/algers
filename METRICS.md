@@ -3672,7 +3672,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dolthub/dolt</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3714,7 +3714,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rtyley/bfg-repo-cleaner</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3756,7 +3756,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tinkerun/tinkerun</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
