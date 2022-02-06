@@ -2454,7 +2454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>video-dev/hls.js</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.</div>
@@ -2507,7 +2507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hououinkami/AppleTV</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">自宅用Apple TVストリームリスト</div>
