@@ -2507,7 +2507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hououinkami/AppleTV</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">自宅用Apple TVストリームリスト</div>
@@ -2548,7 +2548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github2017luo/book</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
