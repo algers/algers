@@ -2424,7 +2424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>video-dev/hls.js</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.</div>
