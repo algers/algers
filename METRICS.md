@@ -2424,7 +2424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stefansundin/vlc-protocol</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open vlc:// links directly from your web browser.</div>
@@ -2477,7 +2477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xfangfang/Macast-plugins</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plugin repository for Macast</div>
@@ -2530,7 +2530,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mpv-player/mpv</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎥 Command line video player</div>
