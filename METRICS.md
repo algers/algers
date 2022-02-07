@@ -2424,7 +2424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xfangfang/Macast-plugins</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plugin repository for Macast</div>
@@ -2477,7 +2477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mpv-player/mpv</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎥 Command line video player</div>
