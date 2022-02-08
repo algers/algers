@@ -2429,7 +2429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>42wim/matterbridge</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)</div>
@@ -2482,7 +2482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stefansundin/vlc-protocol</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open vlc:// links directly from your web browser.</div>
