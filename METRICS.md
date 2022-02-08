@@ -2429,7 +2429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stefansundin/vlc-protocol</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open vlc:// links directly from your web browser.</div>
