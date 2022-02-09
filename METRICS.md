@@ -2434,7 +2434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>luongz/Japan-IPTV</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An simple Japanese IPTV</div>
@@ -2481,7 +2481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sj14/epoch</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🕗 Easily convert epoch timestamps to human-readable formats and vice versa.</div>
@@ -2534,7 +2534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>claudiodangelis/qrcp</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
