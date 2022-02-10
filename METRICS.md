@@ -2439,7 +2439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>toshi-search/Toshi</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A full-text search engine in rust</div>
