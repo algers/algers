@@ -2439,7 +2439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>luongz/Japan-IPTV</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An simple Japanese IPTV</div>
