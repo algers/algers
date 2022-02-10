@@ -2439,7 +2439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>toshi-search/Toshi</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A full-text search engine in rust</div>
@@ -2492,7 +2492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>luongz/Japan-IPTV</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An simple Japanese IPTV</div>
