@@ -2444,7 +2444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SDRausty/TermuxArch</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install</div>
@@ -2497,7 +2497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tiangolo/fastapi</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FastAPI framework, high performance, easy to learn, fast to code, ready for production</div>
@@ -2550,7 +2550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gin-gonic/gin</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</div>
