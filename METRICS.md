@@ -2449,7 +2449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/echarts</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache ECharts is a powerful, interactive charting and data visualization library for browser</div>
@@ -2502,7 +2502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grafana/grafana</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</div>
@@ -2555,7 +2555,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tweeticoats/stash-vr-companion</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
