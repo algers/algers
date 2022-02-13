@@ -2454,7 +2454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>frebib/nzbget-exporter</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NZBGet Prometheus metrics exporter</div>
@@ -2501,7 +2501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BrodyBuster/docker-wireguard-vpn</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidteather/TikTok-Api</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Unofficial TikTok API Wrapper In Python</div>
