@@ -2429,7 +2429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kurmanovd/tailscale-derper</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DERP for Tailscale in Docker</div>
@@ -2482,7 +2482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mchlwong/derp</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tailscale custom DERP server Dockerfile and configs.</div>
@@ -2529,7 +2529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>naelstrof/maim</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.</div>
