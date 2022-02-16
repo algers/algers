@@ -2435,7 +2435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fotvnetwork/iptv-free</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free streaming channels from around the world (not for sale)</div>
