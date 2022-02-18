@@ -2486,7 +2486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JasonHHouse/gaps</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find the missing movies in your Plex Server</div>
