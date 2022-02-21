@@ -2442,7 +2442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scikit-image/scikit-image</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Image processing in Python</div>
@@ -2495,7 +2495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nuno-faria/tiler</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👷 Build images with images</div>
@@ -2548,7 +2548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KananVyas/BoxDetection</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Box detection algorithm for any image containing boxes.</div>
