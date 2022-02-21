@@ -2434,7 +2434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Idnan/bash-guide</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A guide to learn bash</div>
@@ -2475,7 +2475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aristocratos/bashtop</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linux/OSX/FreeBSD resource monitor</div>
@@ -2528,7 +2528,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>denysdovhan/bash-handbook</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
