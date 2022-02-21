@@ -2434,7 +2434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>greymd/tmux-xpanes</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Awesome tmux-based terminal divider</div>
@@ -2487,7 +2487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tmux-plugins/tpm</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tmux Plugin Manager</div>
@@ -2540,7 +2540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>laktak/extrakto</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">extrakto for tmux - quickly select, copy/insert/complete text without a mouse</div>
