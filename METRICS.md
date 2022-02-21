@@ -2442,7 +2442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kellyjonbrazil/jc</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.</div>
@@ -2495,7 +2495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scikit-image/scikit-image</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Image processing in Python</div>
@@ -2548,7 +2548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nuno-faria/tiler</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👷 Build images with images</div>
