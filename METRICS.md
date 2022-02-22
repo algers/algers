@@ -2435,7 +2435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ActivityWatch/activitywatch</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.</div>
@@ -2488,7 +2488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lmorg/murex</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bash-like shell and scripting environment with advanced features designed for safety and productivity (eg smarter DevOps tooling)</div>
