@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Unitech/pm2</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node.js Production Process Manager with a built-in Load Balancer.</div>
@@ -2493,7 +2493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ActivityWatch/activitywatch</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.</div>
