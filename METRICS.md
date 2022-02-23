@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ActivityWatch/activitywatch</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.</div>
