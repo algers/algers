@@ -2445,7 +2445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>livezencity/schedule_lock_installation</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2493,7 +2493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>automerge/automerge</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.</div>
@@ -2546,7 +2546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Yooooomi/your_spotify</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self hosted Spotify tracking dashboard</div>
