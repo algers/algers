@@ -2445,7 +2445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>livezencity/schedule_lock_installation</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
