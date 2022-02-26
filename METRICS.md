@@ -2455,7 +2455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jelhub/scimgateway</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Using SCIM protocol as a gateway for user provisioning to other endpoints</div>
