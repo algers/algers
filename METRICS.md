@@ -2460,7 +2460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nicomt/ckron</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐋 A cron-like job scheduler for docker</div>
@@ -2513,7 +2513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alibaba/derrick</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐳A tool to help you containerize application in seconds</div>
@@ -2566,7 +2566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nagadomi/waifu2x</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Image Super-Resolution for Anime-Style Art</div>
