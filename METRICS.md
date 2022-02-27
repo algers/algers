@@ -2460,7 +2460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akai-katto/dandere2x</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dandere2x - Fast Waifu2x Video Upscaling.</div>
@@ -2513,7 +2513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LoSealL/VideoSuperResolution</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of state-of-the-art video or single-image super-resolution architectures, reimplemented in tensorflow.</div>
@@ -2566,7 +2566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>l3uddz/crop</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CLI tool to harvest your media crop and plow the cloud with it</div>
