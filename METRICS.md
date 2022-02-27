@@ -2460,7 +2460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>osquery/osquery</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SQL powered operating system instrumentation, monitoring, and analytics.</div>
@@ -2513,7 +2513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>XuehaiPan/nvitop</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management.</div>
@@ -2566,7 +2566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dalibo/pg_activity</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">pg_activity is a top like application for PostgreSQL server activity monitoring.</div>
