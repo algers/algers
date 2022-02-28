@@ -2430,7 +2430,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Alexkral/AviSynthAiUpscale</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An AviSynth+ implementation of some Super-Resolution Convolutional Neural Networks.</div>
@@ -2483,7 +2483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fiatjaf/awesome-jq</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome jq tools and resources.</div>
@@ -2524,7 +2524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sammwyy/imap-server</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Internet Message Access Protocol (IMAP) server library written in NodeJS</div>
