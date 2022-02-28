@@ -2430,7 +2430,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>greatjack1/United-In-Flight-Api</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Postman collection for United's internal in-flight wifi api</div>
@@ -2471,7 +2471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lwthiker/curl-impersonate</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">curl-impersonate: A special compilation of curl that makes it impersonate Chrome &amp; Firefox</div>
@@ -2524,7 +2524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arc298/instagram-scraper</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scrapes an instagram user's photos and videos</div>
