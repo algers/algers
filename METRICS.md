@@ -2430,7 +2430,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fiatjaf/awesome-jq</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome jq tools and resources.</div>
@@ -2471,7 +2471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sammwyy/imap-server</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Internet Message Access Protocol (IMAP) server library written in NodeJS</div>
@@ -2518,7 +2518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keylase/nvidia-patch</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.</div>
