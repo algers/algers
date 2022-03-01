@@ -2435,7 +2435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Teitoku42/Chunkify</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hassle-free multi-GPU upscaling with Topaz Video Enhance AI</div>
@@ -2488,7 +2488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anvaka/sayit</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visualization of related subreddits</div>
@@ -2541,7 +2541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JustAnotherArchivist/snscrape</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A social networking service scraper in Python</div>
