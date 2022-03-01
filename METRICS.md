@@ -2435,7 +2435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anvaka/sayit</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visualization of related subreddits</div>
@@ -2488,7 +2488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JustAnotherArchivist/snscrape</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A social networking service scraper in Python</div>
@@ -2541,7 +2541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RipMeApp/ripme</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Downloads albums in bulk</div>
