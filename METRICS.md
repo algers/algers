@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jarun/buku</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2496,7 +2496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asciimoo/morty</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Privacy aware web content sanitizer proxy as a service</div>
@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>appbaseio/dejavu</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.</div>
