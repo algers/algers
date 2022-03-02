@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mgoodings/patbrid</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Real-debrid blackhole downloader using aria2</div>
@@ -2487,7 +2487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rcdailey/trash-updater</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically sync TRaSH guides to your Sonarr and Radarr instances.</div>
@@ -2540,7 +2540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jarun/buku</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
