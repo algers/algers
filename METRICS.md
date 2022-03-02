@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asciimoo/morty</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Privacy aware web content sanitizer proxy as a service</div>
@@ -2493,7 +2493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>appbaseio/dejavu</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.</div>
@@ -2546,7 +2546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>balena-io-playground/meetbot</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Google Meet bot to make meetings frictionless</div>
