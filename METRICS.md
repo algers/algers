@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Teitoku42/Chunkify</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hassle-free multi-GPU upscaling with Topaz Video Enhance AI</div>
