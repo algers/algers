@@ -2443,7 +2443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>airbnb/lottie</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lottie documentation for http://airbnb.io/lottie</div>
@@ -2496,7 +2496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samyk/magspoof</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&amp;PIN and predict AMEX card numbers with 100% accuracy.</div>
@@ -2543,7 +2543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>erxes/erxes</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free and open fair-code licensed all-in-one growth marketing &amp; management software</div>
