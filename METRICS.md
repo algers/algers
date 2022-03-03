@@ -2445,7 +2445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattydebie/bitwarden-rofi</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi</div>
@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mgoodings/patbrid</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Real-debrid blackhole downloader using aria2</div>
@@ -2545,7 +2545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rcdailey/trash-updater</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically sync TRaSH guides to your Sonarr and Radarr instances.</div>
