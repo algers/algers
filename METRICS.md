@@ -2453,7 +2453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MickaelWalter/wp-json-scraper</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scrapes WordPress data using the WP-JSON API activated by default since WordPress 4.7</div>
@@ -2506,7 +2506,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cabernetwork/cabernet</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cabernet allows control of IPTV streams. Supports Pluto TV, XUMO, USTVGO, M3U/XMLTV.XML files (SamsungTV, STIRR, IPTV Org, DistroTV, Plex TV)</div>
@@ -2559,7 +2559,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rs/curlie</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The power of curl, the ease of use of httpie.</div>
