@@ -2453,7 +2453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MickaelWalter/wp-json-scraper</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scrapes WordPress data using the WP-JSON API activated by default since WordPress 4.7</div>
