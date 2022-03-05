@@ -2453,7 +2453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cabernetwork/cabernet</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cabernet allows control of IPTV streams. Supports Pluto TV, XUMO, USTVGO, M3U/XMLTV.XML files (SamsungTV, STIRR, IPTV Org, DistroTV, Plex TV)</div>
@@ -2506,7 +2506,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rs/curlie</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The power of curl, the ease of use of httpie.</div>
