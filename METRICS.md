@@ -2458,7 +2458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>n1ckyrush/wyzecam-hls</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Converts MP4 files from WyzeCam NFS to HLS stream. Much more stable alternative to RTSP firmware.</div>
@@ -2505,7 +2505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>monero-project/monero</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monero: the secure, private, untraceable cryptocurrency</div>
@@ -2558,7 +2558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>paulgoio/searxng</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">gitlab mirror: SearXNG image with changed simple theme, settings.yml and bundled with filtron binary</div>
