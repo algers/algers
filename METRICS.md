@@ -2429,7 +2429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dwisiswant0/go-dork</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The fastest dork scanner written in Go.</div>
@@ -2482,7 +2482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>patali09/pDork</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Advance Google Dorking tool for linux users.</div>
@@ -2529,7 +2529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cooperhammond/irs</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
