@@ -2429,7 +2429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mindsdb/mindsdb</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">In-Database Machine Learning</div>
@@ -2482,7 +2482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pytorch/torchrec</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pytorch domain library for recommendation systems</div>
@@ -2535,7 +2535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kabinspace/AstroVim</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins</div>
