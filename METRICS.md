@@ -2429,7 +2429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BBVA/kapow</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kapow! If you can script it, you can HTTP it.</div>
@@ -2482,7 +2482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hiddentao/mailmask</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mailmask - easy stop unwanted email. Unlimited, free temporary email addresses, all forwarding to your real email address. Beat spam, protect your privacy.</div>
@@ -2535,7 +2535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rspamd/rspamd</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rapid spam filtering system.</div>
