@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1379" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1397" class="">
     <defs>
         <style/>
     </defs>
@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2030 Commits
+                            2031 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.6678771553139" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="435.6678771553139" y="0" width="10.887359641337634" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="446.5552367966515" y="0" width="6.2728706493888255" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="452.82810744604035" y="0" width="2.952928073170302" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="455.78103551921066" y="0" width="2.641681976463244" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.4227174956739" y="0" width="1.0033877964192375" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.4261052920931" y="0" width="0.317878767878688" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.7439840599718" y="0" width="0.25601594002816647" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.6731721035439" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="435.6731721035439" y="0" width="10.884990427355346" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="446.5581625308992" y="0" width="6.27150560098947" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="452.82966813188875" y="0" width="2.9522854822474227" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="455.78195361413617" y="0" width="2.64110711625089" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.4230607303871" y="0" width="1.0031694477584743" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.42623017814554" y="0" width="0.31780959382305457" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.74403977196863" y="0" width="0.2559602280314303" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -337,11 +337,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 66 commits)</small>
+                    <small class="h-details">(computed from last 68 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
+                        <li>Has approximately 211.7 characters per line of code written</li>
                         <li>Mostly pushes code around 18:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -458,7 +459,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~5.75
+                            Average per day at ~5.76
                         </div>
                     </section>
                 </div>
@@ -2408,10 +2409,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5783132530120483 0,1.5783132530120483 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5783132530120483 1.7,2.5783132530120483 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.927710843373494)">
+                            <g transform="translate(-1.7, 6.855421686746988)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.072289156626506 0,1.072289156626506 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.072289156626506 1.7,2.072289156626506 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.144578313253012 0,1.144578313253012 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.144578313253012 1.7,2.144578313253012 z"/>
                             </g>
                         </g>
                     </g>
@@ -2434,7 +2435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dwisiswant0/go-dork</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The fastest dork scanner written in Go.</div>
@@ -2487,7 +2488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>patali09/pDork</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Advance Google Dorking tool for linux users.</div>
@@ -2534,7 +2535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cooperhammond/irs</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
