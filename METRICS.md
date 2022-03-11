@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rofl0r/proxychains-ng</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.</div>
@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ph055a/OSINT_Collection</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Maintained collection of OSINT related resources. (All Free &amp; Actionable)</div>
@@ -2544,7 +2544,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>1N3/BlackWidow</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.</div>
