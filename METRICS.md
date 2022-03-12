@@ -2456,7 +2456,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ravio1i/notion-gcal-sync</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python application to bidirectional synchronize calendar events within notion and google calendar</div>
@@ -2509,7 +2509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Thrynk/Notion-Events</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project aims to capture Notion change events in a page and send them to Apache Kafka.</div>
@@ -2562,7 +2562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cmakafui/notion-folder-watcher</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cross platform desktop service that watches custom folders for file changes and updates the corresponding database in Notion. Perfect for tracking reading lists</div>
