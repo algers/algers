@@ -2456,7 +2456,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LSPosed/MagiskOnWSA</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)</div>
@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nativefier/nativefier</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Make any web page a desktop application</div>
