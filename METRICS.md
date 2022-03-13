@@ -2461,7 +2461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ChrisTitusTech/ArchTitus</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated Arch Linux Install</div>
@@ -2495,7 +2495,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        160
+                                        163
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2514,7 +2514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bashup/jqmd</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write and document your jq/shell scripts with markdown</div>
@@ -2567,7 +2567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>w495/bulk-video-converter</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FFmpeg based video converter with YAML configuration. It creates several videos of different qualities and sizes from single source.</div>
