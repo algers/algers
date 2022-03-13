@@ -2461,7 +2461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ChrisTitusTech/ArchTitus</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated Arch Linux Install</div>
@@ -2514,7 +2514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bashup/jqmd</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write and document your jq/shell scripts with markdown</div>
@@ -2567,7 +2567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>w495/bulk-video-converter</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FFmpeg based video converter with YAML configuration. It creates several videos of different qualities and sizes from single source.</div>
