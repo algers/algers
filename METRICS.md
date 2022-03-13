@@ -2461,7 +2461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>m1k1o/neko</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A self hosted virtual browser that runs in docker and uses WebRTC.</div>
