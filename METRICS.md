@@ -2456,7 +2456,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zenika-open-source/awesome-remote-work</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">😎 Awesome lists about remote work</div>
@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emre1393/xtreamui_mirror</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is an installation mirror for xtream ui software.</div>
@@ -2556,7 +2556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>explodgf/XtreamUI</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">XC-Admin</div>
