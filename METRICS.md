@@ -2431,7 +2431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zenika-open-source/awesome-remote-work</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">😎 Awesome lists about remote work</div>
