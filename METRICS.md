@@ -2441,7 +2441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mlovic/notion-search</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast CLI script for searching notion.so pages</div>
@@ -2488,7 +2488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MeilCli/notion-db-notification</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This cli tool is that notify created or updated page of notion database</div>
@@ -2541,7 +2541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mnfwu/save-to-notion</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A CLI for saving code snippets to a Notion page directly from your editor.</div>
