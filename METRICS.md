@@ -2446,7 +2446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swaywm/sway</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">i3-compatible Wayland compositor</div>
