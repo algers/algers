@@ -2446,7 +2446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swaywm/sway</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">i3-compatible Wayland compositor</div>
@@ -2546,7 +2546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MeilCli/notion-db-notification</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This cli tool is that notify created or updated page of notion database</div>
