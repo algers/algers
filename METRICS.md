@@ -2484,7 +2484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>beginner-corp/slack</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2540,7 +2540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rusq/slackdump</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command line utility to create and save an archive of slack public and private messages and threads, files, and users.</div>
@@ -2593,7 +2593,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>haskell-jp/slack-log</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Logs of https://haskell-jp.slack.com (and programs to save and view them)</div>
