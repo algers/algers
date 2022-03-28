@@ -2540,7 +2540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rusq/slackdump</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command line utility to create and save an archive of slack public and private messages and threads, files, and users.</div>
