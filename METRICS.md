@@ -2436,7 +2436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stealthybox/tf-oci-arm</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Some configurable terraform for a free, firewalled, oracle-cloud ARM Ubuntu machine with @Tailscale and @Docker.</div>
@@ -2483,7 +2483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>solsticedhiver/atool</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">atool with support for zstd</div>
@@ -2536,7 +2536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SimulaVR/Simula</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linux VR Desktop</div>
