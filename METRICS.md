@@ -2441,7 +2441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mptre/yank</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Yank terminal output to clipboard</div>
