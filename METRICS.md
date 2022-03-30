@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    29.2m added, 19.6m removed
+                                    19.9m added, 15.4m removed
                                 </div>
                             </section>
                             <section>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.1707805285369" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.1707805285369" y="0" width="7.082752554207172" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="451.25353308274407" y="0" width="4.080804903833532" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.33433798657757" y="0" width="1.9210221340743174" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.25536012065186" y="0" width="1.7185415364766359" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.9739016571285" y="0" width="0.6527521559006308" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.6266538130291" y="0" width="0.2067954700947483" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.8334492831239" y="0" width="0.16655071687605813" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.28225863091654" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.28225863091654" y="0" width="7.032871900534309" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="451.31513053145085" y="0" width="4.052065622804474" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.36719615425534" y="0" width="1.9074932356645111" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.2746893899199" y="0" width="1.7064386182188884" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.98112800813874" y="0" width="0.6481551148528882" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.62928312299164" y="0" width="0.20533910222844667" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.83462222522" y="0" width="0.16537777477990556" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2441,7 +2441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mptre/yank</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Yank terminal output to clipboard</div>
@@ -2494,7 +2494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stealthybox/tf-oci-arm</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Some configurable terraform for a free, firewalled, oracle-cloud ARM Ubuntu machine with @Tailscale and @Docker.</div>
@@ -2541,7 +2541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>solsticedhiver/atool</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">atool with support for zstd</div>
