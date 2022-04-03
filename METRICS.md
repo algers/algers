@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    30.4m added, 20m removed
+                                    20.7m added, 16m removed
                                 </div>
                             </section>
                             <section>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.6253557762827" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.6253557762827" y="0" width="6.84758819565646" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="449.4729439719391" y="0" width="5.679337436034412" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.1522814079736" y="0" width="2.185802730388204" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.3380841383618" y="0" width="1.6614005914842456" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.999484729846" y="0" width="0.6310792200102214" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.63056394985625" y="0" width="0.19992936490416988" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.8304933147604" y="0" width="0.16950668523961251" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.62586869351117" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.62586869351117" y="0" width="6.847386047864891" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="449.473254741376" y="0" width="5.6791697761974795" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.1524245175735" y="0" width="2.1857382032609687" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.3381627208345" y="0" width="1.6613515452433092" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.99951426607777" y="0" width="0.631060589907624" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.63057485598534" y="0" width="0.19992346278528797" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.83049831877065" y="0" width="0.16950168122928097" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2566,7 +2566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MaterializeInc/materialize</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.</div>
