@@ -2511,7 +2511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Xhofe/alist</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。</div>
