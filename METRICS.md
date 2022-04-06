@@ -2441,7 +2441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>up-banking/api</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Up Banking API Specification</div>
@@ -2488,7 +2488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Bios-Marcel/cordless</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Discord terminal client you never knew you wanted.</div>
@@ -2541,7 +2541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wader/fq</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">jq for binary formats</div>
