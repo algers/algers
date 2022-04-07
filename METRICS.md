@@ -2493,7 +2493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Bios-Marcel/cordless</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Discord terminal client you never knew you wanted.</div>
@@ -2546,7 +2546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wader/fq</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">jq for binary formats</div>
