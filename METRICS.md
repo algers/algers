@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2390 Commits
+                            2391 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    30.6m added, 20.3m removed
+                                    30.5m added, 20.2m removed
                                 </div>
                             </section>
                             <section>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.70743374218495" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.70743374218495" y="0" width="6.8152401312472515" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="449.5226738734322" y="0" width="5.65250819807016" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.1751820715023" y="0" width="2.1754769798482876" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.35065905135065" y="0" width="1.6535521210728796" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.00421117242354" y="0" width="0.6280979964504938" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.63230916887403" y="0" width="0.19898489689756363" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.83129406577154" y="0" width="0.16870593422841698" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.71729526768905" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.71729526768905" y="0" width="6.811353567311678" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="449.52864883500075" y="0" width="5.649284711577377" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.1779335465781" y="0" width="2.174236358797566" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.3521699053757" y="0" width="1.6526091409407655" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.00477904631646" y="0" width="0.6277398076010917" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.6325188539176" y="0" width="0.1988714207016978" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.83139027461925" y="0" width="0.16860972538073707" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -342,7 +342,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 13.0 characters per line of code written</li>
+                        <li>Has approximately 13.1 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -460,7 +460,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~6.70
+                            Average per day at ~6.71
                         </div>
                     </section>
                 </div>
@@ -2420,10 +2420,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.331288343558282 0,1.331288343558282 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.331288343558282 1.7,2.331288343558282 z"/>
                             </g>
-                            <g transform="translate(-5.1, 8.815950920245399)">
+                            <g transform="translate(-5.1, 8.779141104294478)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.184049079754601 0,1.1840490797546013 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1840490797546013 1.7,2.184049079754601 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2208588957055215 0,1.2208588957055215 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2208588957055215 1.7,2.2208588957055215 z"/>
                             </g>
                         </g>
                     </g>
@@ -2446,7 +2446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>up-banking/api</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Up Banking API Specification</div>
@@ -2493,7 +2493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Bios-Marcel/cordless</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Discord terminal client you never knew you wanted.</div>
@@ -2546,7 +2546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wader/fq</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">jq for binary formats</div>
@@ -2567,7 +2567,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        3.77k
+                                        3.78k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
