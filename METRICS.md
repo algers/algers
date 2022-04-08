@@ -2545,7 +2545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jpmens/jo</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JSON output from a shell</div>
