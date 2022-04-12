@@ -2436,7 +2436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reelyactive/barnowl</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Technology-agnostic middleware for RFID, RTLS and M2M, enabling location-aware physical spaces.  We believe in an open Internet of Things.</div>
@@ -2489,7 +2489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marelab/esp-rfid</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ESP8266 RFID (RC522, PN532, Wiegand, RDM6300) Access Control system featuring WebSocket, JSON, NTP Client, Javascript, SPIFFS</div>
@@ -2542,7 +2542,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ikarus23/MifareClassicTool</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.</div>
