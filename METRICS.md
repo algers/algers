@@ -2446,7 +2446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jrudess/streamdvr</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DVR for streaming entertainment</div>
@@ -2499,7 +2499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>exelix11/SysDVR</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stream switch games to your PC via USB or network</div>
@@ -2552,7 +2552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mathieugouin/rpiDvr</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Using a Raspberry Pi micro-computer as a DVR to record free over the air HD channels.</div>
