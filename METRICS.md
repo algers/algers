@@ -2451,7 +2451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kotatogram/kotatogram-desktop</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental Telegram Desktop fork.</div>
@@ -2504,7 +2504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Game4Move78/zsh-bitwarden</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This plugin provides functions to manage a bitwarden session</div>
@@ -2557,7 +2557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tdharris/bitwarden-login</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Script to set the `BW_SESSION` token environment variable and persist with optional encryption to enable re-usability in simultaneous terminal sessions.</div>
