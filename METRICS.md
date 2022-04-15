@@ -342,7 +342,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 146.2 characters per line of code written</li>
+                        <li>Has approximately 146.6 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -2451,7 +2451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kotatogram/kotatogram-desktop</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental Telegram Desktop fork.</div>
