@@ -2504,7 +2504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tdharris/bitwarden-login</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Script to set the `BW_SESSION` token environment variable and persist with optional encryption to enable re-usability in simultaneous terminal sessions.</div>
@@ -2551,7 +2551,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jrudess/streamdvr</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DVR for streaming entertainment</div>
