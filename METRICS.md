@@ -2456,7 +2456,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidsbond/vault-plugin-tailscale</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A HashiCorp Vault plugin for managing Tailscale authentication keys</div>
@@ -2562,7 +2562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Game4Move78/zsh-bitwarden</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This plugin provides functions to manage a bitwarden session</div>
