@@ -2456,7 +2456,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kotatogram/kotatogram-desktop</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental Telegram Desktop fork.</div>
