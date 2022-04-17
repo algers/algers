@@ -2489,7 +2489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidsbond/vault-plugin-tailscale</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A HashiCorp Vault plugin for managing Tailscale authentication keys</div>
