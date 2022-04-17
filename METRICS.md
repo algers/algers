@@ -32,8 +32,8 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2427 Commits
+                            2429 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.87768885915773" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.87768885915773" y="0" width="6.354026363545995" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="450.23171522270377" y="0" width="5.269981015932989" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.5016962386367" y="0" width="2.028254003826817" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.52995024246354" y="0" width="1.5416498272191697" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.0716000696827" y="0" width="0.5855921657167604" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.65719223539946" y="0" width="0.18551881613644802" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.8427110515359" y="0" width="0.15728894846407113" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.88558741552646" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.88558741552646" y="0" width="6.350913432964134" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="450.23650084849055" y="0" width="5.267399175044754" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.5039000235353" y="0" width="2.0272603324828453" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.5311603560182" y="0" width="1.540894550388528" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.07205490640666" y="0" width="0.5853052755377054" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.6573601819444" y="0" width="0.18542792775115974" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.84278810969556" y="0" width="0.15721189030443367" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2489,7 +2489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidsbond/vault-plugin-tailscale</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A HashiCorp Vault plugin for managing Tailscale authentication keys</div>
