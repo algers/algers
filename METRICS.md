@@ -2435,7 +2435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marounmelhem/laravel-permissions-fix</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple bash shell script to update Laravel files and folders permission and owner</div>
@@ -2488,7 +2488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidsbond/vault-plugin-tailscale</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A HashiCorp Vault plugin for managing Tailscale authentication keys</div>
