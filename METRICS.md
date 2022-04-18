@@ -2435,7 +2435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marounmelhem/laravel-permissions-fix</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple bash shell script to update Laravel files and folders permission and owner</div>
@@ -2541,7 +2541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kotatogram/kotatogram-desktop</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental Telegram Desktop fork.</div>
