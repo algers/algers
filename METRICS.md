@@ -2489,7 +2489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hossainnh0/BD-IPTV</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2531,7 +2531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emre1393/xtreamui-things</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">the things related with xtream-ui</div>
