@@ -2441,7 +2441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cakephp/chronos</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A standalone DateTime library originally based off of Carbon</div>
@@ -2494,7 +2494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>briannesbitt/Carbon</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple PHP API extension for DateTime.</div>
