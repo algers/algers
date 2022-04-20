@@ -2441,7 +2441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>briannesbitt/Carbon</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple PHP API extension for DateTime.</div>
@@ -2494,7 +2494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smuuf/primi</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Primi language: A scripting language written in PHP.</div>
@@ -2547,7 +2547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hossainnh0/BD-IPTV</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
