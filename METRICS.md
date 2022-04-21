@@ -2446,7 +2446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lite-xl/lite-xl</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight text editor written in Lua</div>
@@ -2499,7 +2499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nwtgck/piping-server</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Infinitely transfer between every device over pure HTTP with pipes or browsers</div>
