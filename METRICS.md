@@ -2552,7 +2552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Huachao/vscode-restclient</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">REST Client Extension for Visual Studio Code</div>
