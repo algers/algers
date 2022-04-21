@@ -2446,7 +2446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>darkhz/invidtui</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A TUI based Invidious client</div>
@@ -2499,7 +2499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PixelCyber/Thor</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HTTP Sniffer/Capture on iOS for Network Debug &amp; Inspect.</div>
@@ -2540,7 +2540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lite-xl/lite-xl</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight text editor written in Lua</div>
