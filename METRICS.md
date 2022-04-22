@@ -2451,7 +2451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cube-js/cube.js</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊  Cube — Headless Business Intelligence for Building Data Applications</div>
@@ -2485,7 +2485,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        1.43k
+                                        1.44k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2504,7 +2504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trufflesecurity/trufflehog</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find credentials all over the place</div>
@@ -2557,7 +2557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apioo/fusio</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source API management platform</div>
