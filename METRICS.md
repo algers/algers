@@ -2456,7 +2456,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cube-js/cube.js</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊  Cube — Headless Business Intelligence for Building Data Applications</div>
