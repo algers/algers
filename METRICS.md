@@ -2456,7 +2456,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cube-js/cube.js</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊  Cube — Headless Business Intelligence for Building Data Applications</div>
@@ -2509,7 +2509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trufflesecurity/trufflehog</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find credentials all over the place</div>
@@ -2562,7 +2562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apioo/fusio</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source API management platform</div>
