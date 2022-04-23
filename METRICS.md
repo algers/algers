@@ -2456,7 +2456,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>burhan-syed/troddit</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web client for Reddit with authenticated logins and a variety of browsing options</div>
@@ -2509,7 +2509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nwilging/laravel-slack-bot</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Slack bot integration for Laravel projects</div>
