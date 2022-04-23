@@ -342,7 +342,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 286.5 characters per line of code written</li>
+                        <li>Has approximately 285.9 characters per line of code written</li>
                         <li>Mostly pushes code around 19:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -2430,10 +2430,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.294478527607362 0,1.294478527607362 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.294478527607362 1.7,2.294478527607362 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.963190184049079)">
+                            <g transform="translate(-8.5, 10.926380368098158)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.03680981595092 0,1.0368098159509203 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0368098159509203 1.7,2.03680981595092 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0736196319018405 0,1.0736196319018405 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0736196319018405 1.7,2.0736196319018405 z"/>
                             </g>
                         </g>
                     </g>
@@ -2456,7 +2456,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cube-js/cube.js</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊  Cube — Headless Business Intelligence for Building Data Applications</div>
@@ -2509,7 +2509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trufflesecurity/trufflehog</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find credentials all over the place</div>
@@ -2562,7 +2562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apioo/fusio</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source API management platform</div>
