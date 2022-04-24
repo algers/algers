@@ -2514,7 +2514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arttet/reddit-feed-api</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Backend Challenge: Reddit Feed API</div>
@@ -2567,7 +2567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>burhan-syed/troddit</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web client for Reddit with authenticated logins and a variety of browsing options</div>
