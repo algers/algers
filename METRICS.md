@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>denolehov/obsidian-git</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Backup your Obsidian.md vault with git</div>
@@ -2509,7 +2509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>not-an-aardvark/reddit-oauth-helper</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A quick script that creates reddit oauth tokens for you</div>
@@ -2562,7 +2562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AleemRehman/changespark</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight API that generates changelogs in Notion</div>
