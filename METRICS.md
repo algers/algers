@@ -211,7 +211,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    60 Watchers
+                                    59 Watchers
                                 </div>
                             </section>
                         </div>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.06106388800396" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.06106388800396" y="0" width="6.281755722102235" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="450.3428196101062" y="0" width="5.210040296989329" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.5528599070955" y="0" width="2.0051846601570444" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.5580445672525" y="0" width="1.5241151152869057" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.08215968253944" y="0" width="0.5789316454388476" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.6610913279783" y="0" width="0.18340872671047567" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.84450005468875" y="0" width="0.15549994531124678" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.0849847427469" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="434.0849847427469" y="0" width="10.213466835976263" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="444.29845157872313" y="0" width="8.470971515204424" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="452.7694230939275" y="0" width="3.260217036849144" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="456.02964013077667" y="0" width="2.4780491112417065" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.5076892420184" y="0" width="0.9412812950020354" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.4489705370204" y="0" width="0.2982030869323878" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.7471736239528" y="0" width="0.25282637604714764" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -460,7 +460,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~6.38
+                            Average per day at ~6.37
                         </div>
                     </section>
                 </div>
@@ -1426,10 +1426,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.1411042944785277 0,2.1411042944785277 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.1411042944785277 1.7,3.1411042944785277 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.153374233128835)">
+                            <g transform="translate(-6.8, 9.190184049079754)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8466257668711656 0,1.8466257668711656 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8466257668711656 1.7,2.8466257668711656 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.809815950920245 0,1.8098159509202454 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8098159509202454 1.7,2.809815950920245 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.411042944785276)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2461,7 +2461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>v2fly/v2ray-core</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A platform for building proxies to bypass network restrictions.</div>
@@ -2514,7 +2514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arttet/reddit-feed-api</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Backend Challenge: Reddit Feed API</div>
@@ -2567,7 +2567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>burhan-syed/troddit</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web client for Reddit with authenticated logins and a variety of browsing options</div>
