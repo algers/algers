@@ -2443,7 +2443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonaslu/ain</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A HTTP API client for the terminal</div>
@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Morganamilo/paru</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Feature packed AUR helper</div>
