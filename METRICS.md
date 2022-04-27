@@ -2443,7 +2443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonaslu/ain</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A HTTP API client for the terminal</div>
@@ -2496,7 +2496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-source-labs/Swell</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, and gRPC.</div>
@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Morganamilo/paru</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Feature packed AUR helper</div>
