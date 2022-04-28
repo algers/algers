@@ -2448,7 +2448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cedrickchee/awesome-wireguard</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of WireGuard tools, projects, and resources.</div>
@@ -2495,7 +2495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elghazal-a/autowire</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.</div>
@@ -2548,7 +2548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>octeep/wireproxy</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wireguard client that exposes itself as a socks5 proxy</div>
