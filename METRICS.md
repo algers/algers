@@ -2506,7 +2506,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scanapi/scanapi</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated Integration Testing and Live Documentation for your API</div>
@@ -2559,7 +2559,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>roapi/roapi</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create full-fledged APIs for slowly moving datasets without writing a single line of code.</div>
