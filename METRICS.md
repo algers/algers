@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ranger/ranger</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A VIM-inspired filemanager for the console</div>
@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>corrad1nho/qomui</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Qomui (Qt OpenVPN Management UI)</div>
@@ -2556,7 +2556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eafer/rdrview</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Firefox Reader View as a command line tool</div>
