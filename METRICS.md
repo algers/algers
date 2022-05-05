@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vnotex/vnote</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pleasant note-taking platform.</div>
@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iggredible/Learn-Vim</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖</div>
@@ -2550,7 +2550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ranger/ranger</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A VIM-inspired filemanager for the console</div>
