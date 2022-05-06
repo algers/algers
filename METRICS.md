@@ -2455,7 +2455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vnotex/vnote</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pleasant note-taking platform.</div>
@@ -2508,7 +2508,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iggredible/Learn-Vim</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖</div>
