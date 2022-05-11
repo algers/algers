@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>howdyai/botkit</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.</div>
