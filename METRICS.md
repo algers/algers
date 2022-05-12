@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ExpediaGroup/flyte</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flyte binds together the tools you use into easily defined, automated workflows</div>
