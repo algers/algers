@@ -2449,7 +2449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>firecracker-microvm/firecracker</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Secure and fast microVMs for serverless computing.</div>
@@ -2502,7 +2502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>valinet/ExplorerPatcher</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project aims to enhance the working environment on Windows</div>
