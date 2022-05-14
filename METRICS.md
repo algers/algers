@@ -2460,7 +2460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>firecracker-microvm/firecracker</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Secure and fast microVMs for serverless computing.</div>
@@ -2513,7 +2513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>valinet/ExplorerPatcher</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project aims to enhance the working environment on Windows</div>
@@ -2566,7 +2566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lspgn/edge-sql</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cloudflare Workers providing a SQL API</div>
