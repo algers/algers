@@ -2435,7 +2435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>slackapi/template-channel-naming</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sample Slack app that uses the Events API and interactive message to help enforce channel naming conventions</div>
@@ -2488,7 +2488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>willscott/go-nfs</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">golang NFSv3 server</div>
@@ -2541,7 +2541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bobbykdhan/Airtag-Card</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Converting an AirTag Into A Card</div>
