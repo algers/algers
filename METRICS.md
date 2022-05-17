@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dhruvkb/pls</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">`pls` is a prettier and powerful `ls` for the pros.</div>
@@ -2493,7 +2493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yamafaktory/jql</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A JSON Query Language CLI tool</div>
@@ -2546,7 +2546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sheepla/fzpac</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔎 Arch Linux package finder with fzf</div>
