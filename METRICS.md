@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sheepla/fzpac</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔎 Arch Linux package finder with fzf</div>
@@ -2493,7 +2493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zdharma-continuum/fast-syntax-highlighting</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Feature-rich syntax highlighting for ZSH</div>
@@ -2546,7 +2546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/pure</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pretty, minimal and fast ZSH prompt</div>
