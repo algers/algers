@@ -2556,7 +2556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yamafaktory/jql</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A JSON Query Language CLI tool</div>
