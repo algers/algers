@@ -2482,7 +2482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zinggAI/zingg</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scalable entity resolution, data mastering and deduplication</div>
