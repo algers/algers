@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jaebradley/flights-search-cli</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Search flights from your command line</div>
@@ -2546,7 +2546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zinggAI/zingg</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scalable entity resolution, data mastering and deduplication</div>
