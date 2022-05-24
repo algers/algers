@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jaebradley/flights-search-cli</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Search flights from your command line</div>
