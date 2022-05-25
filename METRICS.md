@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2574 Commits
+                            2575 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    22.6m added, 17.8m removed
+                                    22.4m added, 17.7m removed
                                 </div>
                             </section>
                             <section>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.63550777779193" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="434.63550777779193" y="0" width="9.996550014601823" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="444.63205779239377" y="0" width="8.291061039672936" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="452.9231188320667" y="0" width="3.1909755218982108" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="456.1140943539649" y="0" width="2.4254195247307977" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.53951387869574" y="0" width="0.9211595953893887" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.4606734740851" y="0" width="0.29186975597041015" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.75254323005555" y="0" width="0.24745676994448837" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.6353010707246" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="434.6353010707246" y="0" width="9.99654526037098" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="444.6318463310956" y="0" width="8.291275866644936" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="452.92312219774055" y="0" width="3.1909740043112205" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="456.11409620205177" y="0" width="2.425418371232411" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.5395145732842" y="0" width="0.9211591572977119" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.46067373058185" y="0" width="0.2918696171609015" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.75254334774274" y="0" width="0.2474566522572256" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2445,7 +2445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openwrt/packages</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</div>
@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>str4d/rage</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.</div>
