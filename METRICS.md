@@ -2445,7 +2445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openwrt/packages</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</div>
@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>str4d/rage</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.</div>
@@ -2551,7 +2551,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cornelinux/yubikey-luks</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Two factor authentication for harddisk encryption</div>
