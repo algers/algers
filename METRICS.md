@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elefan-grenoble/gestion-compte</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gestion des membres et du bénévolat à l'éléfàn, super marché coopératif Grenoble</div>
@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fO-000/bluescan</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Bluetooth scanner for hacking</div>
@@ -2556,7 +2556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nativescript-community/ble</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Connect to and interact with Bluetooth LE peripherals.</div>
