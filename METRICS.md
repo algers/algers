@@ -2455,7 +2455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elefan-grenoble/gestion-compte</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gestion des membres et du bénévolat à l'éléfàn, super marché coopératif Grenoble</div>
