@@ -342,7 +342,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 27.2 characters per line of code written</li>
+                        <li>Has approximately 27.3 characters per line of code written</li>
                         <li>Mostly pushes code around 19:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -2454,7 +2454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Commandarr/Commandarr</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Comandarr is a bot that will interact with Sonarr, Radarr and Lidarr (currently in development) via a number of integrations... ***IN DEVELOPMENT DO NOT TRY TO USE.***</div>
@@ -2507,7 +2507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sirk123au/ArrTools</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of tools for Radarr, Sonarr &amp; Lidarr</div>
@@ -2560,7 +2560,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sergiotapia/torrentinim</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.</div>
