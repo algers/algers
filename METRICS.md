@@ -2459,7 +2459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Commandarr/Commandarr</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Comandarr is a bot that will interact with Sonarr, Radarr and Lidarr (currently in development) via a number of integrations... ***IN DEVELOPMENT DO NOT TRY TO USE.***</div>
