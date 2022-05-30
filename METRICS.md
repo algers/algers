@@ -2429,7 +2429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>victorb/mullvad-find-fastest-server</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
