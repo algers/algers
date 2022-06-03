@@ -2455,7 +2455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kumaylm/FlightDealFinder</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An SMS alert on flight deals, using Sheety to read and write data to a Google sheet, getting IATA codes using the Kiwi Partners API, searching for cheap flights, and sending an SMS using the Twilio API if the flight price is lower than in the Google sheet.</div>
@@ -2502,7 +2502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sralpp/Web-Scraping-Flight-Prices</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web scraping flight prices, carriers and times from Google Flights</div>
@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MartinMohammed/SearchFlightDeals-python</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flightdeal Newsletter; Enter your flight preferences in a Google Sheet file (departure city, destination, maximum fare...) and enter the required program data to receive the best flight deals in your email account.</div>
