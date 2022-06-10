@@ -2508,7 +2508,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wazuh/wazuh</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wazuh - The Open Source Security Platform</div>
@@ -2561,7 +2561,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elebumm/RedditVideoMakerBot</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create Reddit Videos with just✨ one command ✨</div>
