@@ -2455,7 +2455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wee-slack/wee-slack</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..</div>
