@@ -2445,7 +2445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Arinerron/re-lmgtfy</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Now that lmgtfy.com has ads, all is lost if we don't recreate it.</div>
@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kantord/just-dashboard</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2555,7 +2555,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CacheControl/json-rules-engine</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A rules engine expressed in JSON</div>
