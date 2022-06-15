@@ -2445,7 +2445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matanui159/ReplaySorcery</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source, instant-replay solution for Linux</div>
@@ -2551,7 +2551,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kantord/just-dashboard</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
