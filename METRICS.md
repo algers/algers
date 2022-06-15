@@ -2439,7 +2439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kantord/just-dashboard</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2496,7 +2496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CacheControl/json-rules-engine</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A rules engine expressed in JSON</div>
@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>multiprocessio/dsq</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.</div>
