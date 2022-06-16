@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ariakit/ariakit</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Toolkit for building accessible web apps with React</div>
