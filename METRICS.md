@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ariakit/ariakit</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Toolkit for building accessible web apps with React</div>
@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matanui159/ReplaySorcery</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source, instant-replay solution for Linux</div>
@@ -2556,7 +2556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Arinerron/re-lmgtfy</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Now that lmgtfy.com has ads, all is lost if we don't recreate it.</div>
