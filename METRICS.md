@@ -2502,7 +2502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matanui159/ReplaySorcery</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source, instant-replay solution for Linux</div>
