@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>docker/compose</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Define and run multi-container applications with Docker</div>
@@ -2521,7 +2521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fugf123d/astrilchukj</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Schedules Direct to xmltv converter</div>
@@ -2574,7 +2574,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tgen/jetstream</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Workflow management system written as a pure Python package and command-line utility. It supports complex workflows modeled as directed- acyclic graphs (DAGs), and execution on batch schedulers</div>
