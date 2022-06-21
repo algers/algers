@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fugf123d/astrilchukj</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Schedules Direct to xmltv converter</div>
@@ -2574,7 +2574,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>globocom/m3u8</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions</div>
