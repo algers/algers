@@ -2445,7 +2445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>docker/compose</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Define and run multi-container applications with Docker</div>
