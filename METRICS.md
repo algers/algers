@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Roshan-R/termv</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A terminal iptv player written in bash</div>
@@ -2515,7 +2515,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hoppscotch/hoppscotch</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👽 Open source API development ecosystem - https://hoppscotch.io</div>
