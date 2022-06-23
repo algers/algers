@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>quickwit-oss/tantivy</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust</div>
@@ -2515,7 +2515,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>n3r4zzurr0/svg-spinners</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of 24 x 24 dp SVG spinners!</div>
