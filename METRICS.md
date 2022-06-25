@@ -2488,7 +2488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache-superset/examples-data</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
