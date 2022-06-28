@@ -2460,7 +2460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rabschi/awesome-beacon</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome Bluetooth beacon software and tools.</div>
