@@ -2453,7 +2453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rabschi/awesome-beacon</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome Bluetooth beacon software and tools.</div>
@@ -2494,7 +2494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WebBluetoothCG/demos</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Demo applications showing off Web Bluetooth</div>
@@ -2547,7 +2547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PiSugar/sugar-wifi-conf</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A BLE service on raspberry pi for wifi configuration and wireless control. 使用微信小程序随时随地设置树莓派wifi连接，控制树莓派</div>
