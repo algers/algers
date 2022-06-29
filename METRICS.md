@@ -2453,7 +2453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yhatt/jsx-slack</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build JSON object for Slack Block Kit surfaces from JSX</div>
@@ -2506,7 +2506,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rabschi/awesome-beacon</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome Bluetooth beacon software and tools.</div>
@@ -2547,7 +2547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WebBluetoothCG/demos</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Demo applications showing off Web Bluetooth</div>
