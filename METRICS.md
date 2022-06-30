@@ -2458,7 +2458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yhatt/jsx-slack</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build JSON object for Slack Block Kit surfaces from JSX</div>
