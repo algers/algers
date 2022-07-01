@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ashleymavericks/notion-interactive-brokers</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A python script to automatically journal NSE stock trades by leveraging Interactive Broker email notifications for the buy/sell trades.</div>
@@ -2515,7 +2515,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jeremyephron/simplegmail</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple Gmail API client for applications in Python</div>
@@ -2568,7 +2568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shubhamjain148/gmail2Notion</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pull your specific emails from gmail to notion database and create a reading list</div>
