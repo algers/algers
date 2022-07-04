@@ -2442,7 +2442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tweeticoats/stash-deovr</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
