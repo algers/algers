@@ -2446,7 +2446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tweeticoats/stash-deovr</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2494,7 +2494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ashleymavericks/notion-interactive-brokers</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A python script to automatically journal NSE stock trades by leveraging Interactive Broker email notifications for the buy/sell trades.</div>
@@ -2547,7 +2547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jeremyephron/simplegmail</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple Gmail API client for applications in Python</div>
