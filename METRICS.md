@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2646 Commits
+                            2647 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    38m added, 28.9m removed
+                                    37.6m added, 28.9m removed
                                 </div>
                             </section>
                             <section>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.7839848738551" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.7839848738551" y="0" width="6.391263906417447" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="450.1752487802725" y="0" width="5.301429243253379" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.4766780235259" y="0" width="2.0388799976943788" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.5155580212203" y="0" width="1.5506846105595715" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.06624263177986" y="0" width="0.5889405910501818" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.65518322283" y="0" width="0.18660604248303292" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.841789265313" y="0" width="0.15821073468693592" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.8201121788941" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.8201121788941" y="0" width="6.377024949501353" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="450.1971371283954" y="0" width="5.289618305120686" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.4867554335161" y="0" width="2.0343376215901614" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.5210930551063" y="0" width="1.5472298742689863" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.0683229293753" y="0" width="0.5876285032026307" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.6559514325779" y="0" width="0.18619030696684952" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.84214173954473" y="0" width="0.15785826045525714" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2447,7 +2447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sveltejs/svelte</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cybernetically enhanced web apps</div>
@@ -2500,7 +2500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>laurent22/joplin</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</div>
@@ -2521,7 +2521,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        30.4k
+                                        30.5k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2553,7 +2553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>funcy2267/iptv-rec</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Watch and record IPTV streams with IPTV-Cat integration.</div>
