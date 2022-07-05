@@ -2447,7 +2447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sveltejs/svelte</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cybernetically enhanced web apps</div>
@@ -2500,7 +2500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>laurent22/joplin</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</div>
@@ -2553,7 +2553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>funcy2267/iptv-rec</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Watch and record IPTV streams with IPTV-Cat integration.</div>
