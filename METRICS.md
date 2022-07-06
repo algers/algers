@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2663 Commits
+                            2664 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    38.2m added, 28.9m removed
+                                    22.7m added, 17.8m removed
                                 </div>
                             </section>
                             <section>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.12000927949236" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.12000927949236" y="0" width="6.2588256570251755" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="450.3788349365176" y="0" width="5.191574288343993" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.5704092248616" y="0" width="1.9966308116852651" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.56704003654687" y="0" width="1.5185516931602705" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.0855917297071" y="0" width="0.5767367043046481" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.6623284340118" y="0" width="0.1827392364874836" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.84506767049925" y="0" width="0.15493232950076233" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.12090376992745" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.12090376992745" y="0" width="6.258473108980071" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="450.3793768789075" y="0" width="5.191281856589753" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.57065873549726" y="0" width="1.99651834517349" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.5671770806708" y="0" width="1.5184661559588608" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.08564323662966" y="0" width="0.5767042177953915" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.662347454425" y="0" width="0.18272894312509938" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.8450763975501" y="0" width="0.15492360244989337" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2453,7 +2453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kromitgmbh/titra</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">titra - modern open source project time tracking for freelancers and small teams</div>
@@ -2506,7 +2506,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kevinpapst/kimai2</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kimai v2 is a web-based multiuser time-tracking application. Free for everyone: freelancers, agencies, companies, organizations - all can track their times, generate invoices and more. SaaS version available at https://www.kimai.cloud</div>
@@ -2559,7 +2559,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rliebz/tusk</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The modern task runner</div>
