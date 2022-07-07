@@ -2458,7 +2458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/shardingsphere</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features &amp; more</div>
@@ -2511,7 +2511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>edoardottt/awesome-hacker-search-engines</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more</div>
@@ -2552,7 +2552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KasperskyLab/TinyCheck</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.</div>
