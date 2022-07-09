@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bitpicky/dbt-sugar</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">dbt-sugar is a CLI tool that allows users of dbt to have fun and ease performing actions around dbt models</div>
@@ -2521,7 +2521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zsombor-flds/dbt-jinja-cheatsheet</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Jinja cheatsheet for dbt development</div>
@@ -2568,7 +2568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Hiflylabs/awesome-dbt</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome dbt resources</div>
