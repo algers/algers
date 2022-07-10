@@ -2473,7 +2473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blacklabelops/volumerize</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker Volume Backups Multiple Backends</div>
