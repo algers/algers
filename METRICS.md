@@ -2473,7 +2473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blacklabelops/volumerize</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker Volume Backups Multiple Backends</div>
@@ -2526,7 +2526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>loomchild/volume-backup</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">docker volume backup &amp; restore utility</div>
