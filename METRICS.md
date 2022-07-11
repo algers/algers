@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bitpicky/dbt-sugar</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">dbt-sugar is a CLI tool that allows users of dbt to have fun and ease performing actions around dbt models</div>
