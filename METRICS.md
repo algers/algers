@@ -2463,7 +2463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akiirui/userscript</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">userscript</div>
@@ -2510,7 +2510,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phw/peek</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple animated GIF screen recorder with an easy to use interface</div>
@@ -2563,7 +2563,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MattMcManis/Axiom</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An FFmpeg GUI for Windows</div>
