@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akiirui/userscript</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">userscript</div>
