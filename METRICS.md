@@ -2488,7 +2488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-dynaMIX/simple-mpv-webui</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web based user interface with controls for the mpv mediaplayer.</div>
@@ -2541,7 +2541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonniek/mpv-remote</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">simple mpv remote built with rust</div>
@@ -2594,7 +2594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>woodruffw/ff2mpv</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Firefox add-on for playing URLs in mpv.</div>
