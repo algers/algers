@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akiirui/userscript</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">userscript</div>
@@ -2515,7 +2515,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phw/peek</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple animated GIF screen recorder with an easy to use interface</div>
