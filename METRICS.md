@@ -2501,7 +2501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Belleyy/Stash-Userscript</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Userscript for Stash</div>
@@ -2548,7 +2548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cooperdk/YAPO-e-plus</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">YAPO e+ - Yet Another Porn Organizer (extended)</div>
@@ -2601,7 +2601,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akiirui/mpv-handler</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Play videos and songs on the website via mpv-handler, without any background service.</div>
