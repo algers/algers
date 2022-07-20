@@ -2453,7 +2453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>drudge/n8n-nodes-puppeteer</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">n8n node for requesting webpages using Puppeteer</div>
