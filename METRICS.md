@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>drudge/n8n-nodes-puppeteer</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">n8n node for requesting webpages using Puppeteer</div>
@@ -2574,7 +2574,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Belleyy/Stash-Userscript</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Userscript for Stash</div>
