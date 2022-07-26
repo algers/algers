@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2757 Commits
+                            2758 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    69.8m added, 59.6m removed
+                                    22.7m added, 17.8m removed
                                 </div>
                             </section>
                             <section>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.3066420813361" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="445.3066420813361" y="0" width="5.791134714608189" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="451.0977767959443" y="0" width="4.803633737736381" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.9014105336807" y="0" width="1.8474325120125896" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.74884304569326" y="0" width="1.405077870529365" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.15392091622266" y="0" width="0.5336400360886313" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.6875609523113" y="0" width="0.16908404134181576" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.8566449936531" y="0" width="0.14335500634689918" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.4069295251339" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="445.4069295251339" y="0" width="5.751608140735065" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="451.15853766586895" y="0" width="4.770847212616336" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.9293848784853" y="0" width="1.8348231217531166" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.7642080002384" y="0" width="1.3954877095360665" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.15969570977444" y="0" width="0.5299977512260625" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.68969346100056" y="0" width="0.16792998204597429" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.8576234430465" y="0" width="0.1423765569535256" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2448,7 +2448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>logto-io/logto</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.</div>
@@ -2469,7 +2469,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        3.21k
+                                        3.22k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2501,7 +2501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adw0rd/instagrapi</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥 The fastest and powerful Python library for Instagram Private API 2022</div>
@@ -2554,7 +2554,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>laravel/pint</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Laravel Pint is an opinionated PHP code style fixer for minimalists.</div>
