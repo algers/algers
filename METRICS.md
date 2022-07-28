@@ -2458,7 +2458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>logto-io/logto</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.</div>
@@ -2511,7 +2511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adw0rd/instagrapi</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥 The fastest and powerful Python library for Instagram Private API 2022</div>
@@ -2564,7 +2564,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>laravel/pint</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Laravel Pint is an opinionated PHP code style fixer for minimalists.</div>
