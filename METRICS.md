@@ -96,7 +96,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            47 Issues opened
+                            46 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2447,7 +2447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>justintout/uplift-reconnect</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Flutter app to control Uplift desks with Uplift Connect BLE modules installed</div>
@@ -2500,7 +2500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jjcarstens/desk</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monitor and Control my Uplift Desk with Nerves</div>
@@ -2547,7 +2547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>william-r-s/desk_controller_uplift</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Small script to automatically raise my Uplift standing desk</div>
