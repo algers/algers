@@ -2448,7 +2448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>acmesh-official/acme.sh</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pure Unix shell script implementing ACME client protocol</div>
@@ -2501,7 +2501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kayuii/hpool-miner</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">chia chia-miner hpool hpool-miner hpool-og-miner hpool-pp-miner Synology RaspberryPi</div>
