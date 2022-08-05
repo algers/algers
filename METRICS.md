@@ -2463,7 +2463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dekuNukem/duckyPad</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Do-It-All Mechanical Macropad</div>
@@ -2516,7 +2516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>theonedev/onedev</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted Git Server with CI/CD and Kanban</div>
