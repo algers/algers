@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dekuNukem/duckyPad</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Do-It-All Mechanical Macropad</div>
