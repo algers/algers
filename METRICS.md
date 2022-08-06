@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dekuNukem/duckyPad</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Do-It-All Mechanical Macropad</div>
@@ -2574,7 +2574,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twilio-labs/plugin-rtc</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Twilio CLI plugin which supports developing and deploying real-time communication apps</div>
