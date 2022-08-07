@@ -2526,7 +2526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>theonedev/onedev</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted Git Server with CI/CD and Kanban</div>
