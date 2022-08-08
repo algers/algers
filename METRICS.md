@@ -2471,7 +2471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alexdelorenzo/cast_control</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📺 Control Chromecasts from Linux and D-Bus</div>
@@ -2524,7 +2524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>home-sweet-gnome/dash-to-panel</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.</div>
@@ -2577,7 +2577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dialect-app/dialect</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A translation app for GNOME.</div>
