@@ -2476,7 +2476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hyprwm/Hyprland</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</div>
@@ -2529,7 +2529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/slo-generator</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SLO Generator is a tool to compute SLIs, SLOs, Error Budgets and Burn rate and export an SLO report to supported exporters.</div>
@@ -2582,7 +2582,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AsianZeus/Real-Time-Call-Transcription-and-Sentimental-Analysis</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Real Time Call Transcription and Sentimental Analysis, Call Initiates with Twilio, Streams in MuLAW, Preprocessed and converted into .wav, Transcribed with Wav2Vec2.0 and Analysing sentiment with BERT.</div>
