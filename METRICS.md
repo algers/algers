@@ -2476,7 +2476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Suyash458/twilio-audio-streaming</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2524,7 +2524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hyprwm/Hyprland</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</div>
@@ -2577,7 +2577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/slo-generator</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SLO Generator is a tool to compute SLIs, SLOs, Error Budgets and Burn rate and export an SLO report to supported exporters.</div>
