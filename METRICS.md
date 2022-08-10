@@ -2481,7 +2481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Suyash458/twilio-audio-streaming</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2529,7 +2529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hyprwm/Hyprland</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</div>
