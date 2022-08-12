@@ -2467,7 +2467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tanersener/ffmpeg-video-slideshow-scripts</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shell scripts to create video slideshows using images and videos</div>
