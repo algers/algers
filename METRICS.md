@@ -2467,7 +2467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tanersener/ffmpeg-video-slideshow-scripts</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shell scripts to create video slideshows using images and videos</div>
@@ -2520,7 +2520,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>symblai/symbl-twilio-video-react</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Built with Twilio's Video SDK and React.js, this Symbl app uses APIs to add calling features such as live transcription over a WebSocket connection for meetings or conferences.</div>
