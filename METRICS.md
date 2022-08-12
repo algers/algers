@@ -2467,7 +2467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tanersener/ffmpeg-video-slideshow-scripts</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shell scripts to create video slideshows using images and videos</div>
@@ -2573,7 +2573,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arthurkushman/php-wss</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web-socket server/client with multi-process and parse templates support  on server and send/receive options on client</div>
