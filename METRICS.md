@@ -2481,7 +2481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>darsain/uosc</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimalist cursor proximity based UI for MPV player.</div>
@@ -2534,7 +2534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonniek/mpv-playlistmanager</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mpv lua script to create and manage playlists</div>
@@ -2587,7 +2587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kingToolbox/WindTerm</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.</div>
