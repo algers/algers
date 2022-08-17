@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2856 Commits
+                            2857 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    98.9m added, 88m removed
+                                    22.7m added, 17.8m removed
                                 </div>
                             </section>
                             <section>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.1323158755318" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.1323158755318" y="0" width="5.071576738436723" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="452.2038926139685" y="0" width="4.206774375809343" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="456.4106669897778" y="0" width="1.617885995661677" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="458.0285529854395" y="0" width="1.230494643112624" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.2590476285521" y="0" width="0.4673343873176921" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.7263820158698" y="0" width="0.14807507218696145" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.8744570880567" y="0" width="0.12554291194322037" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.1326056373986" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.1326056373986" y="0" width="5.071462533772588" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="452.2040681711712" y="0" width="4.206679645259169" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="456.41074781643033" y="0" width="1.6178495631799712" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="458.02859737961035" y="0" width="1.2304669341308452" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.2590643137412" y="0" width="0.46732386361480943" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.72638817735594" y="0" width="0.14807173774783963" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.8744599151038" y="0" width="0.12554008489616333" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2481,7 +2481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>darsain/uosc</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimalist cursor proximity based UI for MPV player.</div>
@@ -2534,7 +2534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonniek/mpv-playlistmanager</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mpv lua script to create and manage playlists</div>
@@ -2587,7 +2587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kingToolbox/WindTerm</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.</div>
@@ -2615,7 +2615,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        945
+                                        946
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
