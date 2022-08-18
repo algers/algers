@@ -2458,7 +2458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sezanzeb/input-remapper</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎮 An easy to use tool to change the mapping of your input device buttons.</div>
@@ -2511,7 +2511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>darsain/uosc</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimalist cursor proximity based UI for MPV player.</div>
