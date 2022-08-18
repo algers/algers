@@ -2458,7 +2458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>darsain/uosc</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimalist cursor proximity based UI for MPV player.</div>
@@ -2511,7 +2511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonniek/mpv-playlistmanager</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mpv lua script to create and manage playlists</div>
@@ -2564,7 +2564,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kingToolbox/WindTerm</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.</div>
@@ -2592,7 +2592,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        950
+                                        951
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
