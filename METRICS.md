@@ -2463,7 +2463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sezanzeb/input-remapper</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎮 An easy to use tool to change the mapping of your input device buttons.</div>
