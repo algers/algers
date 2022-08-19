@@ -2463,7 +2463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hoyon/mpv-mpris</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MPRIS plugin for mpv</div>
