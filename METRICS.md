@@ -2463,7 +2463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>r3nor/mullvad-tailscale</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use Mullvad VPN along with Tailscale</div>
@@ -2516,7 +2516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stoically/temporary-containers</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Firefox Add-on that lets you open automatically managed disposable containers</div>
@@ -2569,7 +2569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bneijt/mullvad-edgerouter-x</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate Edgerouter X configuration for Mullvad Wireguard</div>
