@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>auctors/free-lunch</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of free Windows software, online services and resources. Feel free to contribute!</div>
@@ -2515,7 +2515,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>violentmonkey/violentmonkey</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.</div>
