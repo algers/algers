@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>auctors/free-lunch</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of free Windows software, online services and resources. Feel free to contribute!</div>
@@ -2515,7 +2515,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>violentmonkey/violentmonkey</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.</div>
@@ -2568,7 +2568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>r3nor/mullvad-tailscale</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use Mullvad VPN along with Tailscale</div>
