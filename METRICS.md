@@ -2473,7 +2473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FastForwardTeam/FastForward</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.</div>
@@ -2526,7 +2526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>auctors/free-lunch</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of free Windows software, online services and resources. Feel free to contribute!</div>
@@ -2573,7 +2573,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>violentmonkey/violentmonkey</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.</div>
