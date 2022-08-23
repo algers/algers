@@ -2448,7 +2448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheHumanRobot/Atomagical_Plex_Remote_Quality</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automagically sets remote client playback quality</div>
@@ -2554,7 +2554,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>auctors/free-lunch</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of free Windows software, online services and resources. Feel free to contribute!</div>
