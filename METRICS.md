@@ -2448,7 +2448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheHumanRobot/Atomagical_Plex_Remote_Quality</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automagically sets remote client playback quality</div>
