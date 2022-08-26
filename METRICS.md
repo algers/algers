@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>surrealdb/surrealdb</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A scalable, distributed, collaborative, document-graph database, for the realtime web</div>
