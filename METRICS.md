@@ -2601,7 +2601,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FastForwardTeam/FastForward</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.</div>
