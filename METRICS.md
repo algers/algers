@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2909 Commits
+                            2910 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    99.1m added, 88.1m removed
+                                    22.7m added, 17.8m removed
                                 </div>
                             </section>
                             <section>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.3650214105268" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.3650214105268" y="0" width="4.9798479450273385" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="452.3448693555542" y="0" width="4.130717323533886" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="456.47558667908805" y="0" width="1.5886235516703962" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="458.0642102307584" y="0" width="1.2082388842568041" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.2724491150152" y="0" width="0.45888178536010443" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.7313309003753" y="0" width="0.14539686215362488" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.8767277625289" y="0" width="0.1232722374710439" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.36502137446126" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.36502137446126" y="0" width="4.979847959241925" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="452.3448693337032" y="0" width="4.130717335324697" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="456.47558666902785" y="0" width="1.588623556204998" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="458.06421022523284" y="0" width="1.2082388877056278" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.2724491129385" y="0" width="0.45888178666994667" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.73133089960845" y="0" width="0.14539686256864887" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.8767277621771" y="0" width="0.12327223782291488" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2442,7 +2442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>surrealdb/surrealdb</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A scalable, distributed, collaborative, document-graph database, for the realtime web</div>
@@ -2463,7 +2463,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        3.41k
+                                        3.42k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
