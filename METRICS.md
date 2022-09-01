@@ -2461,7 +2461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PaulMcInnis/JobFunnel</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scrape job websites into a single spreadsheet with no duplicates.</div>
