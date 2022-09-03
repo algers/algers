@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ken107/read-aloud</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An awesome browser extension that reads aloud webpage content with one click</div>
