@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trimstray/htrace.sh</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My simple Swiss Army knife for http/https troubleshooting and profiling.</div>
@@ -2521,7 +2521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hazbo/httpu</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The terminal-first http client</div>
@@ -2574,7 +2574,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cipher387/API-s-for-OSINT</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List of API's for gathering information about phone numbers, addresses, domains etc</div>
