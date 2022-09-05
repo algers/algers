@@ -2443,7 +2443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kong/kong</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦍 The Cloud-Native API Gateway</div>
@@ -2496,7 +2496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nidhaloff/deep-translator</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.</div>
@@ -2543,7 +2543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gTile/gTile</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.</div>
