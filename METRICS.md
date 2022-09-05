@@ -2443,7 +2443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jpochyla/psst</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and multi-platform Spotify client with native GUI</div>
@@ -2496,7 +2496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>toxuin/mdns-tunneller</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tunnels two (or more) mDNS domains together</div>
@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>szabodanika/microbin</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny, self-contained, configurable paste bin and URL shortener written in Rust.</div>
