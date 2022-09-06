@@ -2448,7 +2448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ProgrammerIn-wonderland/opentok</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A MP4 URL extractor implementation written in multiple languages</div>
@@ -2501,7 +2501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jpochyla/psst</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and multi-platform Spotify client with native GUI</div>
@@ -2554,7 +2554,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>toxuin/mdns-tunneller</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tunnels two (or more) mDNS domains together</div>
