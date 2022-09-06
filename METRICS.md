@@ -2501,7 +2501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jpochyla/psst</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and multi-platform Spotify client with native GUI</div>
