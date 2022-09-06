@@ -2448,7 +2448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ProgrammerIn-wonderland/opentok</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A MP4 URL extractor implementation written in multiple languages</div>
