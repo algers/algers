@@ -2454,7 +2454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>warrant-dev/awesome-authorization</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of information and resources about authorization.</div>
@@ -2501,7 +2501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bwLehrpool/osvdi</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GPU-accelerated Open Source VDI for OpenStack</div>
@@ -2548,7 +2548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azure/avdaccelerator</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AVD Accelerator deployment automation to simplify the setup of AVD (Azure Virtual Desktop) based on best practices</div>
