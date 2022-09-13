@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3025 Commits
+                            3026 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    15.1m added, 12.1m removed
+                                    10.6m added, 6.89m removed
                                 </div>
                             </section>
                             <section>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.7765124479624" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.7765124479624" y="0" width="4.816677616324738" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="452.5931900642871" y="0" width="3.9978297277889485" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="456.59101979207605" y="0" width="1.5366187715216661" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="458.1276385635977" y="0" width="1.1686495758940239" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.29628813949176" y="0" width="0.44384600664167745" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.7401341461334" y="0" width="0.140632770146835" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.88076691628027" y="0" width="0.119233083719745" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.8036235755328" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.8036235755328" y="0" width="4.805994449121753" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="452.60961802465454" y="0" width="3.988962727164643" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="456.59858075181916" y="0" width="1.5332106224672695" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="458.1317913742864" y="0" width="1.1660575654221876" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.2978489397086" y="0" width="0.4428615768170076" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.7407105165256" y="0" width="0.14032085319548962" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.8810313697211" y="0" width="0.1189686302788113" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lissy93/awesome-privacy</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦄  A curated list of privacy &amp; security-focused software and services</div>
@@ -2497,7 +2497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wallabag/wallabag</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.</div>
@@ -2550,7 +2550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dylanaraps/pure-sh-bible</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📖 A collection of pure POSIX sh alternatives to external processes.</div>
