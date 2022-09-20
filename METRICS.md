@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3061 Commits
+                            3062 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    88.7m added, 79.1m removed
+                                    20.6m added, 17.9m removed
                                 </div>
                             </section>
                             <section>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.90441989839235" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.90441989839235" y="0" width="4.766275556288728" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="452.6706954546811" y="0" width="3.9559961507874815" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="456.6266916054686" y="0" width="1.5205394824880376" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="458.1472310879566" y="0" width="1.156420742914703" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.30365183087133" y="0" width="0.43920157019492884" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.74285340106627" y="0" width="0.13916117875364153" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.8820145798199" y="0" width="0.11798542018013974" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.92716706757795" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.92716706757795" y="0" width="4.7573120112951575" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="452.68447907887315" y="0" width="3.9485564320651365" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="456.63303551093827" y="0" width="1.5176799281242956" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="458.15071543906254" y="0" width="1.1542459569128871" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.30496139597545" y="0" width="0.43837559968835693" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.7433369956638" y="0" width="0.13889946969540826" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.8822364653592" y="0" width="0.11776353464081656" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ptr727/PlexCleaner</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin</div>
@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>9p4/jellyfin-plugin-sso</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.</div>
@@ -2556,7 +2556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Attendize/Attendize</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Attendize is an open-source ticket selling and event management platform built on Laravel.</div>
