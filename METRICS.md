@@ -2460,7 +2460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jdholtz/auto-southwest-check-in</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A python script that automatically checks in to your Southwest flight 24 hours beforehand.</div>
@@ -2513,7 +2513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>garrettroell/sw_check_in</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A site that automatically checks you into your Southwest flights 24 hours before each flight. It only requires first name, last name, and confirmation number.</div>
@@ -2560,7 +2560,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sw-tools/checkin-service</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Checks the user in to a flight</div>
