@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3098 Commits
+                            3099 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    100m added, 90.2m removed
+                                    99.8m added, 89.9m removed
                                 </div>
                             </section>
                             <section>
@@ -223,7 +223,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    23 Languages
+                    24 Languages
                 </h2>
             </section>
             <section class="column">
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.0097493713774" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.0097493713774" y="0" width="4.724770371069972" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="452.7345197424474" y="0" width="3.9215469564377177" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="456.65606669888507" y="0" width="1.5072984786669665" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="458.16336517755207" y="0" width="1.1463505200418023" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.3097156975939" y="0" width="0.43537696074798715" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.7450926583419" y="0" width="0.1379493498463075" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.88304200818817" y="0" width="0.1169579918118348" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.75072169981877" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.75072169981877" y="0" width="4.721970812530044" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="452.47269251234883" y="0" width="3.919223330227469" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="456.3919158425763" y="0" width="1.5064053621773248" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.8983212047536" y="0" width="1.1456712753090246" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.0439924800626" y="0" width="0.4353835586768925" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.4793760387395" y="0" width="0.3827563502607095" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.8621323890002" y="0" width="0.1378676109997374" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -281,15 +281,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        SCSS
+                        Shell
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f7523f" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Blade
+                        SCSS
                     </div>
                 </div>
             </section>
@@ -337,7 +337,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 120 commits)</small>
+                    <small class="h-details">(computed from last 121 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nickkjolsing/dockerMullvadVPN</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mullvad VPN container tutorial for docker</div>
@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run your own privacy-first ad blocking service at home, or in the cloud for free with Google Cloud Services.</div>
@@ -2556,7 +2556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gwlim/openwrt-sfe-flowoffload-ath79</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Openwrt firmware with SFE and FlowOffload</div>
