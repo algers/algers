@@ -2475,7 +2475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>snaplet/postgres-wasm</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A PostgresQL server running in your browser</div>
@@ -2528,7 +2528,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JairPPereira/tvweb</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tv iptv</div>
