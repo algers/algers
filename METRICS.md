@@ -2470,7 +2470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>godsgood33/yts-parser</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">YIFY site scraper</div>
@@ -2517,7 +2517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Wizarrrr/wizarr</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wizarr is an automatic user invitation system for Plex.</div>
@@ -2564,7 +2564,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itsToggle/plex_debrid</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plex torrent streaming through Debrid Services</div>
