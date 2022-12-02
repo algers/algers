@@ -2557,7 +2557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bekh6ex/firefox-container-proxy</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[Firefox extension] Assign a proxy to a Firefox container</div>
