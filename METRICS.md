@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Trojaner/ImpostorBot</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">impersonate any Discord user's unique writing style</div>
@@ -2521,7 +2521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huan9huan/chatgpt-slackbot</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Slack Bot for ChatGPT, Uses reverse engineered official API.</div>
@@ -2568,7 +2568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>diciaup/assistant-cli</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A comfortable CLI tool to use ChatGPT service🔥</div>
