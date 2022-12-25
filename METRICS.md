@@ -2473,7 +2473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>curusarn/resh</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rich Enhanced Shell History - Contextual shell history for zsh and bash</div>
@@ -2526,7 +2526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ddworken/hishtory</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your shell history: synced, queryable, and in context</div>
@@ -2579,7 +2579,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>osnr/TabFS</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🗄 Mount your browser tabs as a filesystem.</div>
