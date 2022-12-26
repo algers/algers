@@ -2443,7 +2443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pistocop/subreddit-comments-dl</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download subreddit comments</div>
@@ -2496,7 +2496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Paul-E/Pushshift-Importer</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2550,7 +2550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DenverCoder1/unedit-for-reddit</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Creates a link next to edited and deleted Reddit comments to show the original from before it was edited. The unedited comment gets displayed inline.</div>
