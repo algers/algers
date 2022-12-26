@@ -2443,7 +2443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fitzy1293/redditsfinder</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Archive a reddit user's post history.  Formatted overview of a profile, JSON containing every post, and picture downloads. Uses the pushshift API.</div>
@@ -2496,7 +2496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>voussoir/timesearch</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The subreddit archiver</div>
@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Watchful1/PushshiftDumps</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example scripts for the pushshift dump files</div>
