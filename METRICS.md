@@ -2453,7 +2453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zedeus/nitter</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Alternative Twitter front-end</div>
@@ -2506,7 +2506,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dcchut/pullcaps</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A convenient, opinionated, asynchronous client for the PushShift API</div>
