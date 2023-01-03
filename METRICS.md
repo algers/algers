@@ -2448,7 +2448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ltt2801/new-vinaget-script</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">New Vinaget Script 3.3 LTS - Developed by LTT</div>
@@ -2501,7 +2501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cracker0dks/CaptchaSolver</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JDownload 2 Offline Captcha Solver</div>
