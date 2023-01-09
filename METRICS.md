@@ -2443,7 +2443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheAMM/mpv_thumbnail_script</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Lua script to show preview thumbnails in mpv's OSC seekbar, sans external dependencies</div>
@@ -2549,7 +2549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonniek/mpv-menu</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple 0-dependency mpv menu to launch commands from</div>
