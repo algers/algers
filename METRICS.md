@@ -2475,7 +2475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shirosaidev/sharesniffer</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Network share sniffer and auto-mounter for crawling remote file systems</div>
@@ -2528,7 +2528,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonhadfield/soba</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">backup private and public github, gitlab and bitbucket repositories</div>
@@ -2581,7 +2581,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HorrorPills/ChatGPT-Gnome-Desktop-Extension</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!</div>
