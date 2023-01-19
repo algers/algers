@@ -2460,7 +2460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RandomFractals/geo-data-viewer</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Geo Data Analytics tool for VSCode IDE with kepler.gl support to generate and view maps 🗺️ without any Python 🐍, IPyWidgets ⚙️, pandas 🐼, Jupyter notebooks 📚, or ReactJS  ⚛️ app code.</div>
@@ -2513,7 +2513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keplergl/kepler.gl</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.</div>
@@ -2566,7 +2566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>transform-data/metricflow</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MetricFlow allows you to define, build, and maintain metrics in code.</div>
