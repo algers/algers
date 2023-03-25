@@ -2470,7 +2470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aria1th/Hypernetwork-MonkeyPatch-Extension</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extension that patches Hypernetwork structures and training</div>
@@ -2517,7 +2517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>invoke-ai/InvokeAI</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.</div>
@@ -2570,7 +2570,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brycedrennan/imaginAIry</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AI imagined images. Pythonic generation of stable diffusion images.</div>
