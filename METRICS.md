@@ -2475,7 +2475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aria1th/Hypernetwork-MonkeyPatch-Extension</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extension that patches Hypernetwork structures and training</div>
