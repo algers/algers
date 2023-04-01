@@ -2524,7 +2524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>takoyaro/db-storage1111</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">automatic1111's stable-diffusion-webui extension for storing images to a database</div>
@@ -2571,7 +2571,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cpainchaud/RFLink32</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RFLink for ESP, with MQTT client</div>
