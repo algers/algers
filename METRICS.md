@@ -2499,7 +2499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>will/slacktyping</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">i'm typing when you're typing</div>
@@ -2552,7 +2552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>inqueryio/inquery</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Superpowers for PostgreSQL</div>
