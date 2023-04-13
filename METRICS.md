@@ -2461,7 +2461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/qlib</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of  SOTA Quant research works/papers are released in Qlib.</div>
@@ -2514,7 +2514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marioschlosser/meeting-gpt</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google Colab notebook which will take in an audio file, transcribe it using OpenAI Whisper, identify all speakers using pyannote.audio, and make the full marked up transcript available for passing into an LLM for querying.</div>
@@ -2561,7 +2561,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openai/chatgpt-retrieval-plugin</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.</div>
