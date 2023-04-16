@@ -2480,7 +2480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>erikman/minut2influx</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Transfer data from minut.com's Point to influx database</div>
@@ -2527,7 +2527,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TillFleisch/ESPHomeGenericSitStandDesk</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Custom ESPHome Component for generic  Sit-Stand-Desks</div>
@@ -2580,7 +2580,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ESPresense/ESPresense</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An ESP32 based presence detection node for use with the Home Assistant mqtt_room component for localized device presence detection.</div>
