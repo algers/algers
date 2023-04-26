@@ -2458,7 +2458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shumingch/gnome-email-notifications</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gnome Email Notifications</div>
@@ -2511,7 +2511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ActivityWatch/aw-import-ical</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
