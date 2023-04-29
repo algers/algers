@@ -2473,7 +2473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>livewire/livewire</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A full-stack framework for Laravel that takes the pain out of building dynamic UIs.</div>
@@ -2526,7 +2526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Y2Z/monolith</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⬛️ CLI tool for saving complete web pages as a single HTML file</div>
@@ -2579,7 +2579,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alex000kim/nsfw_data_scraper</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier</div>
