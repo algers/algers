@@ -2448,7 +2448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Softcatala/whisper-ctranslate2</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Whisper command line client compatible with original OpenAI client based on CTranslate2.</div>
@@ -2501,7 +2501,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MahmoudAshraf97/whisper-diarization</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper</div>
@@ -2554,7 +2554,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rhasspy/piper</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, local neural text to speech system</div>
