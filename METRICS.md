@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4907 Commits
+                            4908 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    287m added, 248m removed
+                                    298m added, 258m removed
                                 </div>
                             </section>
                             <section>
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.7500627866557" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.7500627866557" y="0" width="5.870138247857338" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.620201034513" y="0" width="1.4802322773556216" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.10043331186864" y="0" width="1.2453378857290271" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.3457711975977" y="0" width="0.8136168308746919" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="459.15938802847234" y="0" width="0.5761367538826967" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.735524782355" y="0" width="0.22125680399824252" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.95678158635326" y="0" width="0.043218413646732345" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.7510605936671" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.7510605936671" y="0" width="5.869566803859208" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.6206273975263" y="0" width="1.4800881802636932" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.10071557779" y="0" width="1.2452166550475001" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.3459322328375" y="0" width="0.813537627211141" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="459.15946986004866" y="0" width="0.5760806683398683" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.7355505283885" y="0" width="0.22123526517456382" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.9567857935631" y="0" width="0.04321420643694539" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2455,7 +2455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>m-bain/whisperX</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WhisperX:  Automatic Speech Recognition with Word-level Timestamps (&amp; Diarization)</div>
@@ -2476,7 +2476,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        2.90k
+                                        2.91k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2508,7 +2508,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guillaumekln/faster-whisper</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Faster Whisper transcription with CTranslate2</div>
@@ -2561,7 +2561,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GhostNaN/whisper-subs</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WhisperSubs is a mpv lua script to generate subtitles at runtime with whisper.cpp on Linux</div>
