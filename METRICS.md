@@ -2470,7 +2470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Yakabuff/redarc</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of tools to view and parse pushshift.io data dumps</div>
