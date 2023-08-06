@@ -2534,7 +2534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anapnoe/stable-diffusion-webui-ux</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stable Diffusion web UI UX</div>
