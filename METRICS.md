@@ -2479,7 +2479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chadwpalm/HuePlex</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Connector application for using Plex Webhooks with Philips Hue Bridges.</div>
