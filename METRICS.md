@@ -2474,7 +2474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iwalton3/default-shader-pack</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Preconfigured set of MPV shaders and configurations for MPV Shim media clients.</div>
