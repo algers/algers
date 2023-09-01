@@ -2469,7 +2469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Abd-007/Switch-Emulators-Guide</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A guide to get either Yuzu or Ryujinx running on your PC. Includes links for games, keys, firmware, shaders and some other stuff. Made for 128BitBay and r/NewYuzuPiracy.</div>
