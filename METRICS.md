@@ -2474,7 +2474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dyphire/mpv-scripts</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">userscripts for mpv</div>
@@ -2527,7 +2527,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>npiv/chatblade</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A CLI Swiss Army Knife for ChatGPT</div>
