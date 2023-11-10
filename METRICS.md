@@ -2469,7 +2469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>albfan/miraclecast</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Connect external monitors to your system via Wifi-Display specification also known as Miracast</div>
