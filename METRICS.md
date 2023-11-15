@@ -2397,7 +2397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orhun/rustypaste</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimal file upload/pastebin service.</div>
@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JVT038/MetaTube</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python web ui to download videos from YouTube and add metadata on top of it</div>
