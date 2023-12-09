@@ -2527,7 +2527,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JVT038/MetaTube</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python web ui to download videos from YouTube and add metadata on top of it</div>
