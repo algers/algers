@@ -2585,7 +2585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xtrime-ru/TelegramRSS</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convert telegram posts to RSS or json in amphp server</div>
