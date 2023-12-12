@@ -2392,7 +2392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>obsfx/libgen-downloader</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple tool to search and download ebooks from libgen via terminal user interface.</div>
@@ -2445,7 +2445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carterprince/libby</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a simple CLI tool to quickly download books from Library Genesis (libgen)</div>
@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nzbgetcom/nzbget</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">efficient usenet downloader</div>
