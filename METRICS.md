@@ -2585,7 +2585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nzbgetcom/nzbget</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">efficient usenet downloader</div>
