@@ -2401,7 +2401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Travlee/wow-classic-launcher</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Launches WoW Classic for you to avoid queue times.</div>
@@ -2454,7 +2454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WeakAuras/WeakAuras2</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.</div>
