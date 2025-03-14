@@ -2401,7 +2401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Travlee/wow-classic-launcher</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Launches WoW Classic for you to avoid queue times.</div>
