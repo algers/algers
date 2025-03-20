@@ -2514,7 +2514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WeakAuras/WeakAuras2</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.</div>
