@@ -2379,7 +2379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sorayuki/obs-multi-rtmp</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OBS複数サイト同時配信プラグイン</div>
@@ -2432,7 +2432,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>obsproject/obs-studio</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OBS Studio - Free and open source software for live streaming and screen recording</div>
@@ -2485,7 +2485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antebrl/IPTV-Restream</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple web application that can restream and synchonize IPTV streams using HLS &amp; ffmpeg.</div>
