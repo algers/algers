@@ -2384,7 +2384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yagiz/Bagel</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a little native network debugging tool for iOS</div>
@@ -2437,7 +2437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bee-san/RustScan</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 The Modern Port Scanner 🤖</div>
@@ -2490,7 +2490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sorayuki/obs-multi-rtmp</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OBS複数サイト同時配信プラグイン</div>
