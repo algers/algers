@@ -2446,7 +2446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awesome-scripts/awesome-userscripts</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📖  A curated list of Awesome Userscripts.</div>
@@ -2499,7 +2499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>joshinryz/volo_discord_bot</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">V.O.L.O is a Discord bot that transcribes audio with the charm and flair of a lorekeeper from Dungeons &amp; Dragons. Inspired by the legendary Volo, this bot brings a playful, roleplaying twist to voice transcription and command interactions.</div>
