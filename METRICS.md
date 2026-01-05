@@ -2479,7 +2479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yagiz/Bagel</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a little native network debugging tool for iOS</div>
