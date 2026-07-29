@@ -2510,7 +2510,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qaz741wsd856/warden-worker</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Bitwarden-compatible server for Cloudflare Workers</div>
