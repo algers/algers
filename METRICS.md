@@ -2472,7 +2472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>querylab/lazywarden</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatic Bitwarden Backup</div>
