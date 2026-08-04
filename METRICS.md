@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deadlock-api/deadlock-api</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A comprehensive set of endpoints to access Deadlock game data, match history, player statistics, hero analytics, and more. Whether you're a developer integrating game data or a player analyzing performance, the Deadlock API has you covered.</div>
@@ -2558,7 +2558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qaz741wsd856/warden-worker</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Bitwarden-compatible server for Cloudflare Workers</div>
