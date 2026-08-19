@@ -2511,7 +2511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>massgravel/Microsoft-Activation-Scripts</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.</div>
@@ -2564,7 +2564,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JaylenAI/Im-Nobsidian</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bidirectional Obsidian ↔ Notion sync — CLI and library available, Obsidian plugin in development.</div>
