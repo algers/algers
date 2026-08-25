@@ -2391,7 +2391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lbakyl/backup-notion-to-git</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python that backups up Notion resources to Gitea (or other tools)</div>
