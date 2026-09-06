@@ -2472,7 +2472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nous-/disable-keys</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Block accidental key presses (Win, F1, Sleep…) Windows — great for gaming &amp; kiosks</div>
