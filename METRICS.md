@@ -2380,7 +2380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>callofduty2x/CoD2x</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CoD2x is an unofficial patch for Call of Duty 2 that fixes bugs and adds new features</div>
