@@ -2467,7 +2467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tigerstar07/deadlock-optimizer</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build optimizer for Valve's Deadlock: game-file data, a combat model checked against the wiki, and a parallel solver that finds every hero's best teamfight build.</div>
@@ -2514,7 +2514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ilyxabatko/deadlock-demo-analyzer</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A post-game heuristic analyzer for Deadlock (a game by Valve) replays.</div>
@@ -2567,7 +2567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Corbiske/DeadLock-MapParser</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple map parser for Valves new Project 8 game DeadLock</div>
